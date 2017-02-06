@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="A GENERALIZED CONSTRAINT AND EXCEPTION HANDLER FOR">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Analysis of constriants and exceptions in a CAD environment</rdf:li>
+                <rdf:li>Scope of constraints and exceptions</rdf:li>
+                <rdf:li>Dynamic definition and deferred evaluation of constraints and exceptions</rdf:li>
+                <rdf:li>Design and implementation issues of the constraint checker</rdf:li>
+                <rdf:li>Current status and future work</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Analysis of constriants and exceptions in a CAD environment">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Type constraints vs. instance constraints</rdf:li>
+                <rdf:li>Value vs. structural constraints</rdf:li>
+                <rdf:li>Value-based constraints</rdf:li>
+                <rdf:li>Structural constraints</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Design and implementation issues of the constraint checker">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Overall structure of the Constraint of the Constraint Manager</rdf:li>
+                <rdf:li>The constraint-base</rdf:li>
+                <rdf:li>The identification of objects</rdf:li>
+                <rdf:li>Identification of constraint</rdf:li>
+                <rdf:li>Application of constraints</rdf:li>
+                <rdf:li>Inheritance of particular constraint</rdf:li>
+                <rdf:li>Range constraint</rdf:li>
+                <rdf:li>The structure of exceptions</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

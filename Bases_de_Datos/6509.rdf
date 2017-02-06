@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="FUNDAMENTALS OF DATA STRUCTURES IN PASCAL">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>CHAPTER 1 INTRODUCTION</rdf:li>
+                <rdf:li>CHAPTER 2 ARRAYS</rdf:li>
+                <rdf:li>CHAPTER 3 STACKS AND QUEUES</rdf:li>
+                <rdf:li>CHAPTER 4 LINKED LISTS</rdf:li>
+                <rdf:li>CHAPTER 5 TREES</rdf:li>
+                <rdf:li>CHAPTER 6 GRAPHS</rdf:li>
+                <rdf:li>CHAPTER 7 INTERNAL SORTING</rdf:li>
+                <rdf:li>CHAPTER 8 EXTERNAL SORTING</rdf:li>
+                <rdf:li>CHAPTER 9 SIMBOL TABLES</rdf:li>
+                <rdf:li>CHAPTER 10 FILES</rdf:li>
+                <rdf:li>INDEX</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 1 INTRODUCTION">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>OVERVIEW</rdf:li>
+                <rdf:li>HOW TO CREATE PROGRAMS</rdf:li>
+                <rdf:li>HOW TO ANALYZE PROGRAMS</rdf:li>
+                <rdf:li>REFERENCES AND SELECTED READINGS</rdf:li>
+                <rdf:li>EXERCISES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 2 ARRAYS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>AXIOMATIZATION</rdf:li>
+                <rdf:li>ORDERED LISTS</rdf:li>
+                <rdf:li>SPARSE MATRICES</rdf:li>
+                <rdf:li>REPRESENTATION OF ARRAYS</rdf:li>
+                <rdf:li>EXERCISES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 3 STACKS AND QUEUES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>FUNDAMENTALS</rdf:li>
+                <rdf:li>A MAZING PROBLEM</rdf:li>
+                <rdf:li>EVALUATION OF EXPRESSIONS</rdf:li>
+                <rdf:li>MULTIPLE STACKS AND QUEUES</rdf:li>
+                <rdf:li>EXERCISES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 4 LINKED LISTS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>SINGLY LINKED LISTS</rdf:li>
+                <rdf:li>LINKED STACKS AND QUEUES</rdf:li>
+                <rdf:li>POLINOMIAL ADDITION</rdf:li>
+                <rdf:li>MORE ON LINKED LISTS</rdf:li>
+                <rdf:li>EQUIVALENCE RALATIONS</rdf:li>
+                <rdf:li>SPARSE MATRICES</rdf:li>
+                <rdf:li>DOUBLY LINKED LISTS AND DINAMIC STORAGE MANAGEMENT</rdf:li>
+                <rdf:li>GENERALIZED LISTS</rdf:li>
+                <rdf:li>GARBAGE COLLECTION AND COMPACTION</rdf:li>
+                <rdf:li>STRING-A CASE STUDY</rdf:li>
+                <rdf:li></rdf:li>
+                <rdf:li></rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="STRING-A CASE STUDY">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>DATA REPRESENTATIONS FOR STRINGS</rdf:li>
+                <rdf:li>PATTERN MATCHING IN STRINGS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 5 TREES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>BASIC TERMINOLOGY</rdf:li>
+                <rdf:li>BINARY TREES</rdf:li>
+                <rdf:li>BINARY TREES REPRESENTATIONS</rdf:li>
+                <rdf:li>BINARY TREES TRAVERSAL</rdf:li>
+                <rdf:li>MORE ON BINARY TREES</rdf:li>
+                <rdf:li>THREADED BINARY TREES</rdf:li>
+                <rdf:li>BINARY TREES REPRESENTING OF TREES</rdf:li>
+                <rdf:li>APLICATIONS OF TREES</rdf:li>
+                <rdf:li>COUNTING BINARY TREES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 6 GRAPHS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>TERMILOGY AND REPRESENTATIONS</rdf:li>
+                <rdf:li>TRVERSAL, CONNECTED COMPONETS AND SPANNING TREES</rdf:li>
+                <rdf:li>SHORTEST PATHS AND TRNASITIVE CLOSURE</rdf:li>
+                <rdf:li>ACTIVITY NETWORKS, TOPOLOGICAL SORT AND CRITICAL PATHS</rdf:li>
+                <rdf:li>ENUMERATING ALL PATHS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="TERMILOGY AND REPRESENTATIONS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>INTRODUCTION</rdf:li>
+                <rdf:li>DEFINITIONS AND TERMINOLOGY</rdf:li>
+                <rdf:li>GRAPHS REPRESENTATIONS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 7 INTERNAL SORTING">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>SEARCHING</rdf:li>
+                <rdf:li>INSERTION SORT</rdf:li>
+                <rdf:li>QUICKSORT</rdf:li>
+                <rdf:li>HOW FAST CAN WE SORT?</rdf:li>
+                <rdf:li>2-WAY MERGE SORT</rdf:li>
+                <rdf:li>HEAP SORT</rdf:li>
+                <rdf:li>SORTING ON SEVERAL KEYS</rdf:li>
+                <rdf:li>PRACTICAL CONSIDERATIONS FOR INTERNAL SORTING</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 8 EXTERNAL SORTING">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>STORAGE DEVICES</rdf:li>
+                <rdf:li>SORTING WITH DISKS</rdf:li>
+                <rdf:li>SORTING WITH TAPES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="STORAGE DEVICES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>MAGNETIC TAPES</rdf:li>
+                <rdf:li>DISK STORAGE</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="SORTING WITH DISKS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>K-WAY MERGING</rdf:li>
+                <rdf:li>BUFFER HANDLING FOR PARALLEL OPERATION</rdf:li>
+                <rdf:li>RUN GENERATION</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="SORTING WITH TAPES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>BALANCED MERGE SORTS</rdf:li>
+                <rdf:li>POLIPHASE MERGE</rdf:li>
+                <rdf:li>SORTING WITH FEWER THAN 3 TAPES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 9 SIMBOL TABLES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>STATIC TREE TABLES</rdf:li>
+                <rdf:li>DINAMIC TREE TABLES</rdf:li>
+                <rdf:li>HASH TABLES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="HASH TABLES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li></rdf:li>
+                <rdf:li>HASHIN FUNCTIONS</rdf:li>
+                <rdf:li>OVERFLOW HANDLING</rdf:li>
+                <rdf:li>THEORETICAL EVALUATION OF OVERFLOW TECHNIQUES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 10 FILES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>FILES, QUERIES AND SECUENTIAL ORGANIZATIONS</rdf:li>
+                <rdf:li>FILE ORGANIZATIONS</rdf:li>
+                <rdf:li>STORAGE MANAGEMENT</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="FILES, QUERIES AND SECUENTIAL ORGANIZATIONS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li></rdf:li>
+                <rdf:li>CYLINDER-SURFACE INDEXING</rdf:li>
+                <rdf:li>HASHED INDEXES</rdf:li>
+                <rdf:li>TREE INDEXING-B-TREES</rdf:li>
+                <rdf:li>TRIE INDEXING</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="FILE ORGANIZATIONS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li></rdf:li>
+                <rdf:li>SEQUENTIAL ORGANIZATIONS</rdf:li>
+                <rdf:li>RANDOM ORGANIZATIONS</rdf:li>
+                <rdf:li>LINKED ORGANIZATIONS</rdf:li>
+                <rdf:li>INVERTED FILES</rdf:li>
+                <rdf:li>CELULAR PARTITIONS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

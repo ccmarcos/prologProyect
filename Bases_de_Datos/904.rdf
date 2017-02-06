@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="BASES DE DATOS ESTADiSTICAS, PRINCiPALES PROBLEMAS Y POSIBLES SOLUCIONES">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>RESUMEN</rdf:li>
+                <rdf:li>INTRODUCCION</rdf:li>
+                <rdf:li>CARACTERISTICAS</rdf:li>
+                <rdf:li>PROBLEMAS INVOLUCRADOS EN MANEJO DE BASES DE DATOS ESTADISTICOS</rdf:li>
+                <rdf:li>METODOS DE ACCESO EFICIENTES PARA EL MANEJO DE DATOS ESTADISTICOS</rdf:li>
+                <rdf:li>POCA O NULA NECESIDAD DE CONTROL PARA PERMITIR EL ACCESO CONCURRENTE A LOS DATOS</rdf:li>
+                <rdf:li>CAPACIDAD PARA EL MANEJO Y CONTROL DE LA PROFILERACION DE LOS TERMINOS</rdf:li>
+                <rdf:li>CONCLUSIONES</rdf:li>
+                <rdf:li>REFERENCIAS</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="PROBLEMAS INVOLUCRADOS EN MANEJO DE BASES DE DATOS ESTADISTICOS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>PROBLEMAS DE COMPACTACION CUANDO SE TRABAJA CON DATOS DISPERSOS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

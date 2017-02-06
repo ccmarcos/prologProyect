@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="EL PROGRAMA HARTIGAN: MANEJO DE UN PAQUETE DE TECNICAS DE CLASIFICACION, MANUAL DE USUARIO">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>INTRODUCCION</rdf:li>
+                <rdf:li>FUNCIONAMIENTO DEL PROGRAMA</rdf:li>
+                <rdf:li>PRINCIPIO DE LA EJECUCION</rdf:li>
+                <rdf:li>SELECCION DE LAS VARIABLES</rdf:li>
+                <rdf:li>DATOS</rdf:li>
+                <rdf:li>TECNICAS DE CLASIFICACION</rdf:li>
+                <rdf:li>APLICACIONES DEL ANALISIS DE CUMULOS</rdf:li>
+                <rdf:li>BIBLIOGRAFIA</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="DATOS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>TIPOS DE ESCALA</rdf:li>
+                <rdf:li>CREACION DEL ARCHIVO DE DATOS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="TECNICAS DE CLASIFICACION">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>TECNICAS AUXILIARES PARA LA INTERPRETACION</rdf:li>
+                <rdf:li>TECNICAS DE CLASIFICACION JERARQUICA</rdf:li>
+                <rdf:li>TECNICAS DE CLASIFICACION NO-JERARQUICA</rdf:li>
+                <rdf:li>TECNICAS DE CLASIFICACION FILOGENETICA</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="TECNICAS AUXILIARES PARA LA INTERPRETACION">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>PERFILES (PROFILES)</rdf:li>
+                <rdf:li>DISTANCIAS (DISTANCES)</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="TECNICAS DE CLASIFICACION JERARQUICA">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>CONEXION SIMPLE (SINGLE-CONEXION)</rdf:li>
+                <rdf:li>AGREGAMIENTO (ADDING)</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="TECNICAS DE CLASIFICACION NO-JERARQUICA">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>PARTICION OPTIMA (PARTITION BY EXACT OPTIMIZATION)</rdf:li>
+                <rdf:li>K PROMEDIOS (K-MEANS)</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="TECNICAS DE CLASIFICACION FILOGENETICA">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>DITTO</rdf:li>
+                <rdf:li>METODOS DE MUTACION MINIMA</rdf:li>
+                <rdf:li>AJUSTE DE MUTACION MINIMA (MINIMUM MUTATION SETTING)</rdf:li>
+                <rdf:li>ARBOL DE MUTACION MINIMA (REDUCED MUTATION TREE)</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

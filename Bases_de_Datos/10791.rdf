@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="DATA STRUCTURES AND ALGORITHMS">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>CHAPTER 1 DESIGN AND ANALYSIS OF ALGORITHMS</rdf:li>
+                <rdf:li>CHAPTER 2 BASIC DATA TYPES</rdf:li>
+                <rdf:li>CHAPTER 3 TREES</rdf:li>
+                <rdf:li>CHAPTER 4 BASIC OPERATIONS OF SETS</rdf:li>
+                <rdf:li>CHAPTER 5 ADVANCED SET REPRESENTATION METHODS</rdf:li>
+                <rdf:li>CHAPTER 6 DIRECTED GRAPHS</rdf:li>
+                <rdf:li>CHAPTER 7 UNDIRECTED GRAPHS</rdf:li>
+                <rdf:li>CHAPTER 8 SORTING</rdf:li>
+                <rdf:li>CHAPTER 9 ALGORITHM ANALYSIS TECNIQUES</rdf:li>
+                <rdf:li>CHAPTER 10 ALGORITHM DESIGN TECNIQUES</rdf:li>
+                <rdf:li>CHAPTER 11 DATA STRUCTURES AND ALGORITHMS FOR EXTERNAL STORAGE</rdf:li>
+                <rdf:li>CHAPTER 12 MEMORY MANAGMENT</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 1 DESIGN AND ANALYSIS OF ALGORITHMS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>FROM PROBLEMS TO PROGRAM</rdf:li>
+                <rdf:li>ABSTRACT DATA TYPES</rdf:li>
+                <rdf:li>DATA TYPES, DATA STRUCTURES AND ABSTRACT DATA TYPES</rdf:li>
+                <rdf:li>THE RUNNING TIME OF A PROGRAM</rdf:li>
+                <rdf:li>CALCULATING THE RUNNING TIME OF A PROGRAM</rdf:li>
+                <rdf:li>GOOD PROGRAMMING PRACTICE</rdf:li>
+                <rdf:li>SUPER PASCAL</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 2 BASIC DATA TYPES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>THE DATA TYPES "LIST"</rdf:li>
+                <rdf:li>IMPLEMENTATION OF LISTS</rdf:li>
+                <rdf:li>STACKS</rdf:li>
+                <rdf:li>QUEUES</rdf:li>
+                <rdf:li>MAPPINGS</rdf:li>
+                <rdf:li>STACKS AND RECURSIVE PROCEDURES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 3 TREES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>BASIC TERMINOLOGY</rdf:li>
+                <rdf:li>THE ADT TREE</rdf:li>
+                <rdf:li>IMPLEMENTATION OF TREES</rdf:li>
+                <rdf:li>BINARY TREES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 4 BASIC OPERATIONS OF SETS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>INTRODUCTION TO SETS</rdf:li>
+                <rdf:li>AN ADT WITHU UNION, INTERSECTION AND DIFFERENCE</rdf:li>
+                <rdf:li>A BIT-VECTOR IMPLEMENTATION OF SETS</rdf:li>
+                <rdf:li>A LINKED-LIST IMPLEMENTATION OF SETS</rdf:li>
+                <rdf:li>THE DICTIONARY</rdf:li>
+                <rdf:li>SIMPLE DICTIONARY IMPLEMENTATIONS</rdf:li>
+                <rdf:li>THE HASH TABLE DATA STRUCTURE</rdf:li>
+                <rdf:li>ESTIMATYNG THE EFFICIENCY OF HASH FUNCTIONS</rdf:li>
+                <rdf:li>IMPLEMENTATION OF THE MAPPING ADT</rdf:li>
+                <rdf:li>PRIORITY QUEUES</rdf:li>
+                <rdf:li>IMPLEMENTATIONS OF PRIORITY QUEUES</rdf:li>
+                <rdf:li>SOME COMPLEX SET STRUCTURES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 5 ADVANCED SET REPRESENTATION METHODS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>BINARY SEARCH TREES</rdf:li>
+                <rdf:li>TIME ANALISYSOF BINARY SEARCH TREE OPERATIONS</rdf:li>
+                <rdf:li>TRIES</rdf:li>
+                <rdf:li>BALANCED TREE IMPLEMENTATIONS OF SETS</rdf:li>
+                <rdf:li>SETS WITH THE MERGE AND FIND OPERATIONS</rdf:li>
+                <rdf:li>AN ADT WITH MERGE AND SPLIT</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 6 DIRECTED GRAPHS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>BASIC DEFINITIONS</rdf:li>
+                <rdf:li>REPRESENTATION OF DIRECTED GRAPHS</rdf:li>
+                <rdf:li>THE SINGLE-SOURCE SHORTERS PATHS PROBLEM</rdf:li>
+                <rdf:li>THE ALL-PAIRS SHORTERS PATHS PROBLEM</rdf:li>
+                <rdf:li>TRASVERSAL OF DIRECTED GRAPHS</rdf:li>
+                <rdf:li>DIRECTED ACYCLIC GRAPHS</rdf:li>
+                <rdf:li>STRONG COMPONENTS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 7 UNDIRECTED GRAPHS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>DEFINITIONS</rdf:li>
+                <rdf:li>MINIMUM-COST SPANNING TREES</rdf:li>
+                <rdf:li>TRAVERSALS</rdf:li>
+                <rdf:li>ARTICULATIONS POINTS AND BICONNECTED COMPONENTS</rdf:li>
+                <rdf:li>GRAPH MATCHING</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 8 SORTING">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>THE INTERNAL SORTING MODEL</rdf:li>
+                <rdf:li>SOME SIMPLE SORTING SCHEMES</rdf:li>
+                <rdf:li>QUICKSORT</rdf:li>
+                <rdf:li>HEAPSORT</rdf:li>
+                <rdf:li>BIN SORTING</rdf:li>
+                <rdf:li>A LOWER BOUND FOR SORTING BY COMPARISONS</rdf:li>
+                <rdf:li>ORDER STATISTICS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 9 ALGORITHM ANALYSIS TECNIQUES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>EFFICIENCY OF ALGORITHMS</rdf:li>
+                <rdf:li>ANALISYS OF RECURSIVE PROGRAMS</rdf:li>
+                <rdf:li>SOLVING RECURRENCE EQUATIONS</rdf:li>
+                <rdf:li>A GENERAL SOLUTION FOR A LARGE CLASS OF RECURRENCES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 10 ALGORITHM DESIGN TECNIQUES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>DIVIDE-AND-CONQUER ALGORTIHMS</rdf:li>
+                <rdf:li>DINAMYC PROGRAMMING</rdf:li>
+                <rdf:li>GREEDY ALGORITHMS</rdf:li>
+                <rdf:li>BACKTRACKING</rdf:li>
+                <rdf:li>LOCAL SEARCH ALGORITHMS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 11 DATA STRUCTURES AND ALGORITHMS FOR EXTERNAL STORAGE">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>A MODEL OF EXTERNAL COMPUTATION</rdf:li>
+                <rdf:li>EXTERNAL SORTING</rdf:li>
+                <rdf:li>STORING INFORMATION IN FILES</rdf:li>
+                <rdf:li>EXTERNARL SEARCH TREES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 12 MEMORY MANAGMENT">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>THE ISSUES IN MEMORY MANAGEMENT</rdf:li>
+                <rdf:li>MANAGING EQUAL-SIZED BLOKCS</rdf:li>
+                <rdf:li>GARBAGE COLLECTIONS ALGORITHMS FOR EQUAL-SIZED BLOCKS</rdf:li>
+                <rdf:li>STORAGE ALLOCATION FOR OBJECTS WITH MIXED SIZES</rdf:li>
+                <rdf:li>BUDDY SYSTEMS</rdf:li>
+                <rdf:li>STORAGE COMPACTIONS</rdf:li>
+                <rdf:li>BIBLIOGRAPHY</rdf:li>
+                <rdf:li>INDEX</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

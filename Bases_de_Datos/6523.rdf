@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="CARACTERISTICAS DE LOS SISTEMAS PARA CAD Y EL USO DE BASES DE DATOS">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>INTRODUCTION</rdf:li>
+                <rdf:li>EL USO DE CAD</rdf:li>
+                <rdf:li>LOS SMBD EN CAD</rdf:li>
+                <rdf:li>CONCLUSIONES</rdf:li>
+                <rdf:li>DIRECCIONES FUTURAS</rdf:li>
+                <rdf:li>AGRADECIMIENTOS</rdf:li>
+                <rdf:li>BIBLIOGRAFIA</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="EL USO DE CAD">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>LA APARICION DE CAD</rdf:li>
+                <rdf:li>CAD PARA PLANTAS DE PROCESOS INDUSTRIALES</rdf:li>
+                <rdf:li>LA DEFICIENCIA DE LOS SISTEMAS ACTUALES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="LOS SMBDEN CAD">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>LA RAZON PARA USAR BASES DE DATOS EN CAD</rdf:li>
+                <rdf:li>DEFICIENCIA DE LOS MANEJADORES CONVENCIONALES AL USARLOS EN CAD</rdf:li>
+                <rdf:li>AN EXAMPLE: INFIX, POSTFIX AND PREFIX</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

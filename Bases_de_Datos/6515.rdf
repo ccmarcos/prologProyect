@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="DATA STRUCTURES USING PASCAL">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>PREFACE</rdf:li>
+                <rdf:li>INFORMATION AND MEANING</rdf:li>
+                <rdf:li>THE STACK</rdf:li>
+                <rdf:li>RECURSION</rdf:li>
+                <rdf:li>QUEUES AND LISTS</rdf:li>
+                <rdf:li>PASCAL LIST PROCESSING</rdf:li>
+                <rdf:li>TREES</rdf:li>
+                <rdf:li>GRAPHS AND THEIR APLICATIONS</rdf:li>
+                <rdf:li>SORTING</rdf:li>
+                <rdf:li>SEARCHING</rdf:li>
+                <rdf:li>APPENDIX</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="INFORMATION AND MEANING">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>INFORMATION AND MEANING</rdf:li>
+                <rdf:li>ARRAYS AND SETS IN PASCAL</rdf:li>
+                <rdf:li>RECORDS IN PASCAL</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="THE STACK">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>DEFINITION AND EXAMPLES</rdf:li>
+                <rdf:li>REPRESENTING STACKS IN PASCAL</rdf:li>
+                <rdf:li>AN EXAMPLE: INFIX, POSTFIX AND PREFIX</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="RECURSION">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>RECURSIVE DEFINITION AND PROCESS</rdf:li>
+                <rdf:li>RECURSION IN PASCAL</rdf:li>
+                <rdf:li>WRITING RECURSIVE PROGRAMS</rdf:li>
+                <rdf:li>SIMULATING RECURSING</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="QUEUES AND LISTS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>THE QUEUE AND LIST SEUQENTIALS REPRESENTATION</rdf:li>
+                <rdf:li>LINKED LISTS</rdf:li>
+                <rdf:li>AN EXAMPLE: SIMULATION USING LINKED LISTS</rdf:li>
+                <rdf:li>OTHER LIST STRUCTURES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="PASCAL LIST PROCCESING">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>IMPLEMENTING LIST USING DINAMIC STORAGE</rdf:li>
+                <rdf:li>AN EXAMPLE: AN AIRLINE RESERVATION SYSTEM</rdf:li>
+                <rdf:li>AN EXAMPLE: SPARSE MATRICES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="TREES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>BINARY TREES</rdf:li>
+                <rdf:li>BINARY TREE REPRESENTATIONS</rdf:li>
+                <rdf:li>OTHER REPRESENTATIONS AND APLICATIONS THE HUFFMAN ALGORITHM</rdf:li>
+                <rdf:li>THE JOSEPHUS PROBLEM REVISITED</rdf:li>
+                <rdf:li>TREES AND THEIR APLICATIONS</rdf:li>
+                <rdf:li>AN EXAMPLE: GAME TREES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="GRAPHS AND THEIR APLICATIONS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>GRAPHS</rdf:li>
+                <rdf:li>A FLOW PROBLEM</rdf:li>
+                <rdf:li>THE LINKED REPRESENTATION OF GRAPHS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="SORTING">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>GENERAL BAKCGROUND</rdf:li>
+                <rdf:li>EXCHANGE SORTS</rdf:li>
+                <rdf:li>SELECTION AND TREE SORTING</rdf:li>
+                <rdf:li>INSERTION SORTS</rdf:li>
+                <rdf:li>MERGE AND RADIX SORTS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="SEARCHING">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>BASIC SEARCH TECHNIQUES</rdf:li>
+                <rdf:li>TREE SEARCHING</rdf:li>
+                <rdf:li>HASHING</rdf:li>
+                <rdf:li>EXAMPLES AND APPLICATIONS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="EXAMPLES AND APPLICATIONS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>EXAMPLE 9.4.1: THE HUFFMAN ALGORITHM</rdf:li>
+                <rdf:li>EXAMPLE 9.4.2: A SCHEDULING PROBLEM</rdf:li>
+                <rdf:li>EXAMPLE 9.4.2: AN AIRLINE RESERVATION SYSTEM</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="APPENDIX">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>SCALAR DATA TYPES IN PASCAL</rdf:li>
+                <rdf:li>USING ONE-DIMENSIONAL ARRAY</rdf:li>
+                <rdf:li>PACKED ARRAY</rdf:li>
+                <rdf:li>ARRAYS AS PARAMETERS</rdf:li>
+                <rdf:li>VALUE AND VARIABLE PARAMETERS</rdf:li>
+                <rdf:li>RECORDS IN PASCAL</rdf:li>
+                <rdf:li>ARRAYS OF RECORDS</rdf:li>
+                <rdf:li>SCOPE OF IDENTIFIERS</rdf:li>
+                <rdf:li>THE WIDTH STATEMENT</rdf:li>
+                <rdf:li>EFFICIENCY OF RECORD ACCES</rdf:li>
+                <rdf:li>PACKED RECORDS</rdf:li>
+                <rdf:li>FILES OF RECORDS</rdf:li>
+                <rdf:li>BIBLIOGRAPHY AND REFERENCES</rdf:li>
+                <rdf:li>INDEX</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

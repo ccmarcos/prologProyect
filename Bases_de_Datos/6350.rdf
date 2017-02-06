@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="CASE STUDIES IN SPECIFICATION: THE MATHEMATICAL StRUCTURE RELATION">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>CHAPTER I DATA BASE SYSTEMS</rdf:li>
+                <rdf:li>CHAPTER II ON FORMAL SYSTEMS SPECIFICATION</rdf:li>
+                <rdf:li>CHAPTER III THE SPECIFICATION OF A RELATION</rdf:li>
+                <rdf:li>CHAPTER IV THE RIGOROUS DESIGN OG AN IMPLEMENTATION</rdf:li>
+                <rdf:li>CHAPTER V THE IMPLEMENTATION IN PASCAL OG THE DATA TYPE RELATION</rdf:li>
+                <rdf:li>CONCLUSIONS</rdf:li>
+                <rdf:li>REFERENCES</rdf:li>
+
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER I DATA BASE SYSTEMS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>DATA BASE SYSTEMS. AN INTRODUCTION</rdf:li>
+                <rdf:li>THE RELATIONAL APPROACH TO DATA BASE SYSTEMS</rdf:li>
+                <rdf:li>THE RELATIONAL ALGEBRA OPERATORS</rdf:li>
+                <rdf:li>WHY THE RELATIONAL APPROACH</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER II ON FORMAL SYSTEMS SPECIFICATION">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>PURPOSE OF A SPECIFICATION
+                </rdf:li>
+                <rdf:li>BASIC CONCEPTS OF SPECIFICATION TECHNIQUES</rdf:li>
+                <rdf:li>THE NOTATION Z A BRIEF INTRODUCTION</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER III THE SPECIFICATION OF A RELATION">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>THE FORMAL SPECIFICATION</rdf:li>
+                <rdf:li>RELATIONAL ALGEBRA OPERATORS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER IV THE RIGOROUS DESIGN OG AN IMPLEMENTATION">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>INTRODUCING DOMAINS</rdf:li>
+                <rdf:li>STORING THE TUPLES OF RELATION</rdf:li>
+                <rdf:li>INDEXES. A WAY OF OPTIMIZING THE SEARCH FOR A TUPLE</rdf:li>
+                <rdf:li>STORING THE STRING VALUES ONCE
+                </rdf:li>
+                <rdf:li>STORING THE FIELDS NAME AND THE DOMAIN-POOL INDENTIFIERS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER V THE IMPLEMENTATION IN PASCAL OG THE DATA TYPE RELATION">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>ABSTRACT DATA TYPES. AN INTRODUCTION</rdf:li>
+                <rdf:li>THE PRIMITIVE DATA STRUCTURES IN PASCAL</rdf:li>
+                <rdf:li>THE DESIGN OF AN IMPLEMENTATION OF THE ADT RELATION</rdf:li>
+                <rdf:li>MODELLING A STRING STORE</rdf:li>
+                <rdf:li>MODELLING THE SET OF VALUES REPRESENTING FIELD NAMES</rdf:li>
+                <rdf:li>MODELLING THE SET OF VALUES REPRESENTING INDEXED-FIELD-NAMES</rdf:li>
+                <rdf:li>MODELLING DOMAINS. A MAPPING FROM SID TO SID</rdf:li>
+                <rdf:li>ON THE IMPLEMENTATION OF THE TUPLE STORE</rdf:li>
+                <rdf:li>ON THE IMPLEMENTATION OF INDEXES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="MODELLING A STRING STORE">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>THE DESIGN OF A DATA STRUCTURES TO MODEL A STRING STORE</rdf:li>
+                <rdf:li>RESTRICTION IMPOSED BY THE IMPLEMENTATION</rdf:li>
+                <rdf:li>ON THE IMPLEMENTED OPERATIONS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="ON THE IMPLEMENTATION OF THE TUPLE STORE">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>THE DESIGN</rdf:li>
+                <rdf:li>ON THE IMPLEMENTED OPERATION OVER A TUPLE STORE</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="ON THE IMPLEMENTATION OF INDEXES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>THE IMPLEMENTATION OF A SET OF LOCATIONS</rdf:li>
+                <rdf:li>THE IMPLEMENTATION OF AN INDEX</rdf:li>
+                <rdf:li>ON THE IMPLEMENTATION OF INDEXES</rdf:li>
+                <rdf:li>ON THE IMPLEMENTED OPERATIONS OVER A INDEX</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

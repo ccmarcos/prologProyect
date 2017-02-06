@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="ESTRUCTURA DE DATOS">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>ESTRUCTURAS FUNDAMENTALES</rdf:li>
+                <rdf:li>REPRESENTACION LINEAL DE ESTRUCTURAS NO LINEALES</rdf:li>
+                <rdf:li>PILAS Y COLAS</rdf:li>
+                <rdf:li>RECURSION</rdf:li>
+                <rdf:li>LISTAS</rdf:li>
+                <rdf:li>ARBOLES</rdf:li>
+                <rdf:li>METODOS DE ORDENACION</rdf:li>
+                <rdf:li>METODOS DE BUSQUEDA</rdf:li>
+                <rdf:li>BIBLIOGRAFIA</rdf:li>
+                <rdf:li>GLOSARIO</rdf:li>
+                <rdf:li>INDICE ANALITICO</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="ESTRUCTURAS FUNDAMENTALES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Arreglos</rdf:li>
+                <rdf:li>Arreglos multidimensionales</rdf:li>
+                <rdf:li>Registros</rdf:li>
+                <rdf:li>Conjuntos</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="REPRESENTACION LINEAL DE ESTRUCTURAS NO LINEALES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Arreglos bidimensionales</rdf:li>
+                <rdf:li>Arreglos de mas de dos bidimensiones</rdf:li>
+                <rdf:li>Matrices poco densas</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="PILAS Y COLAS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Pilas</rdf:li>
+                <rdf:li>Colas</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="RECURSION">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Funcionamiento interno de la recursion</rdf:li>
+                <rdf:li>El problema de las torres de Hanoi</rdf:li>
+                <rdf:li>El uso de la pilas para simular recursion</rdf:li>
+                <rdf:li>Casos interesantes</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="LISTAS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Listas</rdf:li>
+                <rdf:li>Listas doblemente ligadas</rdf:li>
+                <rdf:li>Aplicaciones</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="ARBOLES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Arboles en general</rdf:li>
+                <rdf:li>Arboles binarios</rdf:li>
+                <rdf:li>Arboles balanceados</rdf:li>
+                <rdf:li>Arboles multicaminos</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="METODOS DE ORDENACION">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Ordenacion interna</rdf:li>
+                <rdf:li>Ordenacion externa</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="METODOS DE BUSQUEDA">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Busqueda interna</rdf:li>
+                <rdf:li>Busqueda externa</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

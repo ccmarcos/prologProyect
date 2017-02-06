@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="BASES DE DATOS ESTADiSTICAS, PRINCiPALES PROBLEMAS Y POSIBLES SOLUCIONES">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>Introduccion y conceptos basicos</rdf:li>
+                <rdf:li>Organizacion de archivos convencionales</rdf:li>
+                <rdf:li>Organizacion de archivos de alto nivel para DBMS</rdf:li>
+                <rdf:li>Arquitectura de una base de datos</rdf:li>
+                <rdf:li>Objetivos del sistema de gestion de bases de datos</rdf:li>
+                <rdf:li>Diferentes enfoques en los DBMS comerciales</rdf:li>
+                <rdf:li>Modelo de datos jeraquicos</rdf:li>
+                <rdf:li>Lenguaje de manejo de datos de IMS: DL/I</rdf:li>
+                <rdf:li>Enfoque de red de las bases de datos</rdf:li>
+                <rdf:li>Enfoque relacional de las bases de datos</rdf:li>
+                <rdf:li>Lenguajes de consulta relacionales comerciales</rdf:li>
+                <rdf:li>Diseño de bases de datos</rdf:li>
+                <rdf:li>Metodo entidad-relacion</rdf:li>
+                <rdf:li>Bases de datos distribuidos</rdf:li>
+                <rdf:li>Nuevas aplicaciones. Sistemas de bases de datos ara microcomputadoras</rdf:li>
+                <rdf:li>Bibliografia</rdf:li>
+                <rdf:li>Glosario</rdf:li>
+                <rdf:li>Indice de acronimos</rdf:li>
+                <rdf:li>Indice analiticos</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Introduccion y conceptos basicos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Terminologia para describir los datos</rdf:li>
+                <rdf:li>Sistema de baases de datos</rdf:li>
+                <rdf:li>Medios de almacenamiento fisico</rdf:li>
+                <rdf:li>Formato de los registros</rdf:li>
+                <rdf:li>Operaciones de entrada/salida</rdf:li>
+                <rdf:li>Datos virtuales y transparentes</rdf:li>
+                <rdf:li>Cuestiones</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Organizacion de archivos convencionales">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Punteros</rdf:li>
+                <rdf:li>Organizacon de archivos</rdf:li>
+                <rdf:li>Organizacion apilo</rdf:li>
+                <rdf:li>Organizacion secuencial</rdf:li>
+                <rdf:li>Archivos con organizacion relativa</rdf:li>
+                <rdf:li>Organizacion directa</rdf:li>
+                <rdf:li>Archivos indexados</rdf:li>
+                <rdf:li>Organizacion secuencial indexada</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Organizacion de archivos de alto nivel para DBMS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Organizacion inversa de archivos</rdf:li>
+                <rdf:li>Organizacion multilista de archivos</rdf:li>
+                <rdf:li>Organizacion multianillo de archivos</rdf:li>
+                <rdf:li>Comparacion de los distintos tipos de organizacion de los archivos de alto nivel</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Arquitectura de una base de datos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Evolucion del concepto de base de datos</rdf:li>
+                <rdf:li>Arquitectura de la base de datos</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Objetivos del sistema de gestion de bases de datos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Objetivos del sistema de gestio de bases de datos</rdf:li>
+                <rdf:li>Evolucion del concepto de base de datos</rdf:li>
+                <rdf:li>Arquitectura de la base de datos</rdf:li>
+                <rdf:li>Administrador de bases de datos</rdf:li>
+                <rdf:li>Diccionario de datos</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Diferentes enfoques en los DBMS comerciales">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Relacion entre los datos</rdf:li>
+                <rdf:li>Lenguaje de base de datos</rdf:li>
+                <rdf:li>Forma de actuar del DBMS en una operacion E/S</rdf:li>
+                <rdf:li>Clasificacion de los DBMS</rdf:li>
+                <rdf:li>El enfoque jerarquico</rdf:li>
+                <rdf:li>El enfoque de red</rdf:li>
+                <rdf:li>El enfoque relacional</rdf:li>
+                <rdf:li>Componentes de un DBMS ideal</rdf:li>
+                <rdf:li>Limitaciones de los DBMS existentes</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Modelo de datos jeraquicos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Antecedentes</rdf:li>
+                <rdf:li>Arquitectura</rdf:li>
+                <rdf:li>Base de datos fisica</rdf:li>
+                <rdf:li>Nivel externo IMS</rdf:li>
+                <rdf:li>Nivel interno IMS</rdf:li>
+                <rdf:li>Utilizacion de punteros en las estructuras HD</rdf:li>
+                <rdf:li>Grupo de conjuntos de datos</rdf:li>
+                <rdf:li>Reorganizacion de datos</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Lenguaje de manejo de datos de IMS: DL/I">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Indexacion secundaria</rdf:li>
+                <rdf:li>Bases de datos logicas</rdf:li>
+                <rdf:li>Parametros de comandos DL/I</rdf:li>
+                <rdf:li>Ejemplos de comandos DL/I</rdf:li>
+                <rdf:li>Codigos de comandos</rdf:li>
+                <rdf:li>Posicionamiento multiple</rdf:li>
+                <rdf:li>Facilidad para el manejo de aplicaciones</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Enfoque de red de las bases de datos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Antecedentes</rdf:li>
+                <rdf:li>Arquitectura</rdf:li>
+                <rdf:li>Tipos de esquemas</rdf:li>
+                <rdf:li>Esquema DDL</rdf:li>
+                <rdf:li>Esquema de almancenamiento DSDL</rdf:li>
+                <rdf:li>Subesquemas</rdf:li>
+                <rdf:li>Area de trabajo del programa: UWA</rdf:li>
+                <rdf:li>Lenguaje de manejos de datos</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Enfoque relacional de las bases de datos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Arquitectura</rdf:li>
+                <rdf:li>Nivel conceptual: tablas de base</rdf:li>
+                <rdf:li>Submodela relacionalde datos: vistas</rdf:li>
+                <rdf:li>Nivel interno: indices</rdf:li>
+                <rdf:li>Lenguaje de procedimiento: algebra relacional</rdf:li>
+                <rdf:li>Lenguaje sin procedimiento: calculo relacional</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Lenguajes de consulta relacionales comerciales">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Lenguajes de consulta</rdf:li>
+                <rdf:li>SQL</rdf:li>
+                <rdf:li>QUEL</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Diseño de bases de datos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Objetivo del diseño</rdf:li>
+                <rdf:li>La relacion universal</rdf:li>
+                <rdf:li>Dependencia funcional: DF</rdf:li>
+                <rdf:li>Primera forma normal: 1FN</rdf:li>
+                <rdf:li>Segunda forma normal: 2FN</rdf:li>
+                <rdf:li>Tercera forma normal: 3FN</rdf:li>
+                <rdf:li>Forma normal de boyce codd: BCFN</rdf:li>
+                <rdf:li>Dependencias de valores multiples</rdf:li>
+                <rdf:li>Cuarta forma normal: 4FN</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Metodo entidad-relacion">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Entidades y relaciones</rdf:li>
+                <rdf:li>Grado de las relaciones</rdf:li>
+                <rdf:li>Tipos de particion en una entidad</rdf:li>
+                <rdf:li>Obtencion de las relaciones a partir del diagrama</rdf:li>
+                <rdf:li>Relaciones preliminares para las correspondencias ternarias</rdf:li>
+                <rdf:li>El uso de roles</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Bases de datos distribuidos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Bases de datos distribuidos</rdf:li>
+                <rdf:li>Estructuras de las bases de datos distribuidas</rdf:li>
+                <rdf:li>Construccion de una base de datos distribuida</rdf:li>
+                <rdf:li>Diseño de una base datos distruibuida</rdf:li>
+                <rdf:li>Transparencia de la red y autonomia local</rdf:li>
+                <rdf:li>Ventajas de las bases datos distruibuidas</rdf:li>
+                <rdf:li>Desventajas de las bases de datos distribuidas</rdf:li>
+                <rdf:li>Componentes del DBMS de las bases de datos distruibuidas</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

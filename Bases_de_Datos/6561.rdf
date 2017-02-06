@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="AN INTRODUCTION TO DATABASE SYSTEMS">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>An Overview of Database Management</rdf:li>
+                <rdf:li>An Architecture for a Database System</rdf:li>
+                <rdf:li>The Internal Level</rdf:li>
+                <rdf:li>An Overview of DB2</rdf:li>
+                <rdf:li>Data Definition</rdf:li>
+                <rdf:li>Data Manipulation</rdf:li>
+                <rdf:li>The system Catalog</rdf:li>
+                <rdf:li>Views</rdf:li>
+                <rdf:li>Embedded SQL</rdf:li>
+                <rdf:li>On Overviewof INGRES</rdf:li>
+                <rdf:li>Relational Data Structure</rdf:li>
+                <rdf:li>Relational Integry Rules</rdf:li>
+                <rdf:li>Relational Algebra</rdf:li>
+                <rdf:li>Relational Calculus</rdf:li>
+                <rdf:li>Some Ramifications of the Model</rdf:li>
+                <rdf:li>Recovery and Concurrency</rdf:li>
+                <rdf:li>Security and Integrity</rdf:li>
+                <rdf:li>Query Optimization</rdf:li>
+                <rdf:li>Frontend Subsystems</rdf:li>
+                <rdf:li>Administration Facilities</rdf:li>
+                <rdf:li>Further Normalization</rdf:li>
+                <rdf:li>Semantic Modeling</rdf:li>
+                <rdf:li>Distributed System</rdf:li>
+                <rdf:li>Logic-Based Systems</rdf:li>
+                <rdf:li>Object-Oriented Systems</rdf:li>
+                <rdf:li>Further Research Topics</rdf:li>
+                <rdf:li>An Inverted List System: DATACOM/DB</rdf:li>
+                <rdf:li>A Hierarchic System: IMS</rdf:li>
+                <rdf:li>A Network: IDMS</rdf:li>
+                <rdf:li>Abbreviations and Acronyms</rdf:li>
+                <rdf:li>Index</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="An Overview of Database Management">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>An Introductory Example</rdf:li>
+                <rdf:li>What Is a Database System?</rdf:li>
+                <rdf:li>What Is a Database?</rdf:li>
+                <rdf:li>Why Database?</rdf:li>
+                <rdf:li>Data Independence</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="An Architecture for a Database System">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Purpose</rdf:li>
+                <rdf:li>The Three Levels of the Architecture</rdf:li>
+                <rdf:li>The External Level</rdf:li>
+                <rdf:li>The Conceptual Level</rdf:li>
+                <rdf:li>The Internal Level</rdf:li>
+                <rdf:li>Mappings</rdf:li>
+                <rdf:li>The Database Administrator</rdf:li>
+                <rdf:li>The Database Management System</rdf:li>
+                <rdf:li>The Data Communications Manager</rdf:li>
+                <rdf:li>Backend vs. Frontends</rdf:li>
+                <rdf:li>Utilities</rdf:li>
+                <rdf:li>Distributed Processing</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="The Internal Level">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Database Access: An Overview</rdf:li>
+                <rdf:li>Page Sets and Files</rdf:li>
+                <rdf:li>Indexing</rdf:li>
+                <rdf:li>Hashing</rdf:li>
+                <rdf:li>Pointer Chains</rdf:li>
+                <rdf:li>Compression Techniques</rdf:li>
+                <rdf:li>Concluding Remarks</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="An Overview of DB2">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Background</rdf:li>
+                <rdf:li>Relational Databases</rdf:li>
+                <rdf:li>The SQL Language</rdf:li>
+                <rdf:li>Major System Components</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Data Definition">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Base Table</rdf:li>
+                <rdf:li>Indexes</rdf:li>
+                <rdf:li>Concluding Remarks</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Data Manipulation">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Simple Queries</rdf:li>
+                <rdf:li>Join Queries</rdf:li>
+                <rdf:li>Aggregate Functions</rdf:li>
+                <rdf:li>Advanced Features</rdf:li>
+                <rdf:li>Update Operations</rdf:li>
+                <rdf:li>Concluding Remarks</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="The system Catalog">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Querying the Catalog</rdf:li>
+                <rdf:li>Updating the Catalog</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Views">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>View Definition</rdf:li>
+                <rdf:li>DML Operation on Views</rdf:li>
+                <rdf:li>Logical Data Independence</rdf:li>
+                <rdf:li>Avdvantages of Views</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Embedded SQL">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Operations Not Involving Cursors</rdf:li>
+                <rdf:li>Operations Involving Cursors</rdf:li>
+                <rdf:li>A Comprehensive Example</rdf:li>
+                <rdf:li>Dynamic SQL</rdf:li>
+                <rdf:li>Concluding Remarks</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="On Overviewof INGRES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Background</rdf:li>
+                <rdf:li>Data Definition</rdf:li>
+                <rdf:li>Data Manipulation: Retrieval Operations</rdf:li>
+                <rdf:li>Data Manipulation: Update Operations</rdf:li>
+                <rdf:li>Views</rdf:li>
+                <rdf:li>Embedded QUEL</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Relational Data Structure">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>An Introductory Example</rdf:li>
+                <rdf:li>Domains</rdf:li>
+                <rdf:li>Relations</rdf:li>
+                <rdf:li>Relational Database</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Relational Integry Rules">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Primary Keys</rdf:li>
+                <rdf:li>The Entity Integrity Rule</rdf:li>
+                <rdf:li>Foreign Keys</rdf:li>
+                <rdf:li>The Referential Integrity Rule</rdf:li>
+                <rdf:li>Concluding Remarks</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Relational Algebra">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>A Syntax for the Relational Algebra</rdf:li>
+                <rdf:li>Traditional Set Operations</rdf:li>
+                <rdf:li>Special Relational Operations</rdf:li>
+                <rdf:li>Examples</rdf:li>
+                <rdf:li>What Is the Algebra For?</rdf:li>
+                <rdf:li>Additional Operators</rdf:li>
+                <rdf:li>Relational Assignment</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Relational Calculus">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Tuple-Oriented Relational Calculus</rdf:li>
+                <rdf:li>Examples</rdf:li>
+                <rdf:li>Relational Calculus vs, Relational Algebra</rdf:li>
+                <rdf:li>Domain-Oriented Relational Calculus</rdf:li>
+                <rdf:li>Query-By-Example</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Some Ramifications of the Model">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>The Relational Model: A Summary</rdf:li>
+                <rdf:li>Essentiality</rdf:li>
+                <rdf:li>What is the Relational System?</rdf:li>
+                <rdf:li>Data Value Atomicity</rdf:li>
+                <rdf:li>Views</rdf:li>
+                <rdf:li>Missing Information</rdf:li>
+                <rdf:li>Whither the Relational Model?</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Recovery and Concurrency">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Transaction Recovery</rdf:li>
+                <rdf:li>System and Media Recovery</rdf:li>
+                <rdf:li>Two-Phase Commit</rdf:li>
+                <rdf:li>Three Concurrency Problems</rdf:li>
+                <rdf:li>Locking</rdf:li>
+                <rdf:li>Concluding Remarks</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Security and Integrity">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Security: General Considerations</rdf:li>
+                <rdf:li>Security in SQL</rdf:li>
+                <rdf:li>Other Aspects of Security</rdf:li>
+                <rdf:li>Integrity: General Considerations</rdf:li>
+                <rdf:li>A Hypothetical Integrity Language</rdf:li>
+                <rdf:li>Security and Integrity in QUEL</rdf:li>
+                <rdf:li>Concluding Remarks</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

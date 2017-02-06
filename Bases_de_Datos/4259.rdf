@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="DATABASE DESIGN AND MANAGEMENT AN APPLIED APPROACH">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>PART I MANAGING DATA 1</rdf:li>
+                <rdf:li>PART II USING DATABASE MANAGEMENT SOFTWARE</rdf:li>
+                <rdf:li>PART III DATABASE DESIGN</rdf:li>
+                <rdf:li>PART IV DATABASE MODELS</rdf:li>
+                <rdf:li>PART V SELECTED DATABASE TOPICS</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="PART I MANAGING DATA 1">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Chapter 1 The Information Society</rdf:li>
+                <rdf:li>Chapter 2 Basic Principles of File Processing</rdf:li>
+                <rdf:li>Chapter 3 Introducing Database Management</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 1 The Information Society">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Information as a Resource</rdf:li>
+                <rdf:li>Obtaining Information from Data</rdf:li>
+                <rdf:li>The Winona Case</rdf:li>
+                <rdf:li>The Granger Case</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 2 Basic Principles of File Processing">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Management of Data</rdf:li>
+                <rdf:li>Granger's Current Software Environment</rdf:li>
+                <rdf:li>The Software Environment</rdf:li>
+                <rdf:li>Basic Principles of Data Storage</rdf:li>
+                <rdf:li>Indexed Files</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 3 Introducing Database Management">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Database Management Systems</rdf:li>
+                <rdf:li>The Management and Control of Metadata</rdf:li>
+                <rdf:li>Combining Data from Two or More Tables</rdf:li>
+                <rdf:li>Case Study Databases</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="PART 2 USING DATABASE MANAGEMENT SOFTWARE">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Chapter 4 Query by Example</rdf:li>
+                <rdf:li>Chapter 5 Structured Query Languaje</rdf:li>
+                <rdf:li>Chapter 6 SQL Maintenance Operation</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 4 Query by Example">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Creating a Simple Query</rdf:li>
+                <rdf:li>Sorting Data in a View</rdf:li>
+                <rdf:li>Placing Conditions on Row Selection for a View</rdf:li>
+                <rdf:li>Linking Tables</rdf:li>
+                <rdf:li>Including Calculated Items in a View</rdf:li>
+                <rdf:li>Joining Multiple Tables</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Reference</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 5 Structured Query Languaje">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Instructions for Running SQL CommandsT</rdf:li>
+                <rdf:li>The SELECT command</rdf:li>
+                <rdf:li>Conditional Selection of Table</rdf:li>
+                <rdf:li>Linking Table</rdf:li>
+                <rdf:li>SQL Agrupate Functions</rdf:li>
+                <rdf:li>SQL View</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 6 SQL Maintenance Operation">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Creating Table</rdf:li>
+                <rdf:li>The ALTER TABLE command</rdf:li>
+                <rdf:li>Changing the contents of Table</rdf:li>
+                <rdf:li>SQL Indexes</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="PART 3 DATABASE DESIGN">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Chapter 7 Introduction to Database Design</rdf:li>
+                <rdf:li>Chapter 11 Postdesign</rdf:li>
+                <rdf:li>Chapter 12 Database Implementation and Management</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 7 Introduction to Database Design">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>A Design Analogy</rdf:li>
+                <rdf:li>About Database Design</rdf:li>
+                <rdf:li>Data Collection</rdf:li>
+                <rdf:li>Understanding the Data</rdf:li>
+                <rdf:li>Evaluating the Conceptual Design</rdf:li>
+                <rdf:li>Database Design</rdf:li>
+                <rdf:li>Database Design Aids</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 11 Postdesign">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Database Design Evaluation</rdf:li>
+                <rdf:li>Processing Time</rdf:li>
+                <rdf:li>Data Communication Time</rdf:li>
+                <rdf:li>Disk Access Time</rdf:li>
+                <rdf:li>Reviewing the Design</rdf:li>
+                <rdf:li>Disk Sizing</rdf:li>
+                <rdf:li>Disk Drive Needs</rdf:li>
+                <rdf:li>Disk Access Optimization</rdf:li>
+                <rdf:li>Record Positioning</rdf:li>
+                <rdf:li>Disk Mirroring</rdf:li>
+                <rdf:li>The Importance of Postdesign</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 12 Database Implementation and Management">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>A Transition</rdf:li>
+                <rdf:li>Loading a Database</rdf:li>
+                <rdf:li>Initial Database Loading at Granger</rdf:li>
+                <rdf:li>Final Database and Application Testing</rdf:li>
+                <rdf:li>Database Operations</rdf:li>
+                <rdf:li>Management of the Database</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="PART 4 DATABASE MODELS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Chapter 13 The Relational Model</rdf:li>
+                <rdf:li>Chapter 14 The Hierarchical and Network Models</rdf:li>
+                <rdf:li>Chapter 15 CODASYL Data Manipulation Languaje</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 13 The Relational Model">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction to the Relational Model</rdf:li>
+                <rdf:li>Structural Rules</rdf:li>
+                <rdf:li>Independence Rules</rdf:li>
+                <rdf:li>Language Rules</rdf:li>
+                <rdf:li>Relational Operations</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 14 The Hierarchical and Network Models">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>The Hierarchical Model</rdf:li>
+                <rdf:li>The Network Database Model</rdf:li>
+                <rdf:li>The CODASYL Data Definition Language</rdf:li>
+                <rdf:li>CODASYL Set Definitions</rdf:li>
+                <rdf:li>Advantages and Disadvantages of the Network Model</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 15 CODASYL Data Manipulation Languaje">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Interfacing with the CODASYL Database</rdf:li>
+                <rdf:li>Accessing Data from the CODASYL Database</rdf:li>
+                <rdf:li>CODASYL Update Commands</rdf:li>
+                <rdf:li>Loading a CODASAL Database</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="PART 4 SELECTED DATABASE TOPICS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Chapter 16 Security, Concurrency and Deadlock</rdf:li>
+                <rdf:li>Chapter 17 Database Integrity and Recovery</rdf:li>
+                <rdf:li>Chapter 18 Distributed Databases</rdf:li>
+                <rdf:li>Glossary of Terms</rdf:li>
+                <rdf:li>Index</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 16 Security, Concurrency and Deadlock">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Security</rdf:li>
+                <rdf:li>Implementing Security</rdf:li>
+                <rdf:li>Security in SQL</rdf:li>
+                <rdf:li>Database Concurrency</rdf:li>
+                <rdf:li>Concurrency Controls and Deadlock</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 17 Database Integrity and Recovery">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Database and Relation Integrity</rdf:li>
+                <rdf:li>Database Corruption</rdf:li>
+                <rdf:li>DBMS Integrity Checks</rdf:li>
+                <rdf:li>Introduction to Database Recovery</rdf:li>
+                <rdf:li>Recovery Resources</rdf:li>
+                <rdf:li>Managing Recovery</rdf:li>
+                <rdf:li>The Cost of Recovery</rdf:li>
+                <rdf:li>Microcomputer DBMS Recovery</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>Case Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 18 Distributed Databases">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Computer Networks</rdf:li>
+                <rdf:li>A Distributed Database Example—The Future Granger Ranch Supply</rdf:li>
+                <rdf:li>The Ideal Distributed Database</rdf:li>
+                <rdf:li>Data Distribution</rdf:li>
+                <rdf:li>Factors to Consider</rdf:li>
+                <rdf:li>Database Machines</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Key Terms</rdf:li>
+                <rdf:li>Review Questions</rdf:li>
+                <rdf:li>Problems and Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="PARADOX : RELATIONAL DATABASE VERSION 3.5">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>Chapter 1 A most ingenius Paradox</rdf:li>
+                <rdf:li>Chapter 2 Terms and concepts</rdf:li>
+                <rdf:li>Chapter 3 Installing Paradox</rdf:li>
+                <rdf:li>Chapter 4 Starting Paradox</rdf:li>
+                <rdf:li>Chapter 5 The Paradox keyboard</rdf:li>
+                <rdf:li>Chapter 6 Tellig Paradoz what to do</rdf:li>
+                <rdf:li>Chapter 7 Getting help</rdf:li>
+                <rdf:li>Chapter 8 Tables on the screen</rdf:li>
+                <rdf:li>Chapter 9 Form</rdf:li>
+                <rdf:li>Chapter 10 Entering and changing information</rdf:li>
+                <rdf:li>Chapter 11 Creating tables</rdf:li>
+                <rdf:li>Chapter 12 Asking questions about your data</rdf:li>
+                <rdf:li>Chapter 13 Reports</rdf:li>
+                <rdf:li>Chapter 14 Graphs</rdf:li>
+                <rdf:li>Chapter 15 Sorting</rdf:li>
+                <rdf:li>Chapter 16 Scripts</rdf:li>
+                <rdf:li>Chapter 17 Tools to manage your data</rdf:li>
+                <rdf:li>Chapter 18 A DOS primer</rdf:li>
+                <rdf:li>Chapter 19 Index</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 1 A most ingenius Paradox">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>What is Paradox?</rdf:li>
+                <rdf:li>A quick tour</rdf:li>
+                <rdf:li>Paradox is</rdf:li>
+                <rdf:li>System requirements</rdf:li>
+                <rdf:li>How to use Paradox manuals</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 2 Terms and concepts">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Terms</rdf:li>
+                <rdf:li>Data basics</rdf:li>
+                <rdf:li>Special Paradoxs termns</rdf:li>
+                <rdf:li>Using Paradox o a networking</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 3 Installing Paradox">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Installation</rdf:li>
+                <rdf:li>Installing the sample tables</rdf:li>
+                <rdf:li>The function key templates</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 4 Starting Paradox">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Starting Paradox</rdf:li>
+                <rdf:li>The Paradox screen</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 5 The Paradox keyboard">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>The keyboard</rdf:li>
+                <rdf:li>Special keys</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 6 Tellig Paradoz what to do">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>The menu system</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 7 Getting help">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Displaying help</rdf:li>
+                <rdf:li>The help index</rdf:li>
+                <rdf:li>Errors</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 8 Tables on the screen">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Viewing tables</rdf:li>
+                <rdf:li>Moving around</rdf:li>
+                <rdf:li>Clearing the display</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 9 Form">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Displaying a form</rdf:li>
+                <rdf:li>Moving around on a form</rdf:li>
+                <rdf:li>Custom form</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 10 Entering and changing information">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Editing a table</rdf:li>
+                <rdf:li>Entering new information</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 11 Creating tables">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Planning a table</rdf:li>
+                <rdf:li>Creating a table</rdf:li>
+                <rdf:li>Using a new table</rdf:li>
+                <rdf:li>Restructuring tables</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 12 Asking questions about your data">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Playing "What if"?</rdf:li>
+                <rdf:li>Querying from one table</rdf:li>
+                <rdf:li>Querying from two tables</rdf:li>
+                <rdf:li>Saving and retrieving queries</rdf:li>
+                <rdf:li>The power of querying</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 13 Reports">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Instant reports</rdf:li>
+                <rdf:li>Custom reports</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 14 Graphs">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Instant graphs</rdf:li>
+                <rdf:li>Customizing graphs</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 15 Sorting">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Standard order</rdf:li>
+                <rdf:li>Sorting by one field</rdf:li>
+                <rdf:li>Sorting by several fields</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 16 Scripts">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Instant scripts</rdf:li>
+                <rdf:li>Scripts and PAL programs</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="UNA INTRODUCCION A LAS BASES DE DATOS Y A DBASE II">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>Bases de datos</rdf:li>
+                <rdf:li>Conceptos basicos</rdf:li>
+                <rdf:li>Modelo relacional</rdf:li>
+                <rdf:li>Archivos con indice</rdf:li>
+                <rdf:li>dBASE III PLUS</rdf:li>
+                <rdf:li>Referencias</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Conceptos basicos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Definicion</rdf:li>
+                <rdf:li>Abstraccion de datos</rdf:li>
+                <rdf:li>Niveles de abstraccion</rdf:li>
+                <rdf:li>Modelo de datos</rdf:li>
+                <rdf:li>Independencia de datos</rdf:li>
+                <rdf:li>Arquitectura para un sistema de base de datos</rdf:li>
+                <rdf:li></rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Modelo relacional">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Estructura de las bases de datos relacionales</rdf:li>
+                <rdf:li>Lenguajes formales de consulta</rdf:li>
+                <rdf:li>Algebra relacional</rdf:li>
+                <rdf:li>Caracteristicas adicionales de un DBL</rdf:li>
+                <rdf:li>Diseño de datos relacionales</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Archivos con indice">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Archivos secuenciales con indice</rdf:li>
+                <rdf:li>Archivos con indice del arbol B</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="dBASE III PLUS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Descripion general de dBASE</rdf:li>
+                <rdf:li>Especificaciones tecnicas</rdf:li>
+                <rdf:li>Objetos y archivos de dBASE</rdf:li>
+                <rdf:li>El lenguaje dBASE</rdf:li>
+                <rdf:li>Comentarios adicionales</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

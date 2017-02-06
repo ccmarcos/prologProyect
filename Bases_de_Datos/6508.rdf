@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="FUNDAMENTALS OF ALGEBRAIC SPECIFICATION 2: MODULE">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>Chapter 1 Introduction</rdf:li>
+                <rdf:li>Chapter 2 Mathematical Induction</rdf:li>
+                <rdf:li>Chapter 3 Analysis of Algorithms</rdf:li>
+                <rdf:li>Chapter 4 Data Structures</rdf:li>
+                <rdf:li>Chapter 5 Design of Algorithms by Induction</rdf:li>
+                <rdf:li>Chapter 6 Algorithms Involving Sequences and Sets</rdf:li>
+                <rdf:li>Chapter 7 Graph Algorithms</rdf:li>
+                <rdf:li>Chapter 8 Geometric Algorithms</rdf:li>
+                <rdf:li>Chapter 9 Algebraic and Numeric Algorithms</rdf:li>
+                <rdf:li>Chapter 10 Reductions</rdf:li>
+                <rdf:li>Chapter 11 NP-Completeness</rdf:li>
+                <rdf:li>Chapter 12 Parallel Algorithms</rdf:li>
+                <rdf:li>Sketches of Solutions to Selected Exercises</rdf:li>
+                <rdf:li>References</rdf:li>
+                <rdf:li>Index</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 2 Mathematical Induction">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Three Simple Examples</rdf:li>
+                <rdf:li>Counting Regions in the Plane</rdf:li>
+                <rdf:li>A Simple Coloring Problem</rdf:li>
+                <rdf:li>A More Complicated Summation Problem</rdf:li>
+                <rdf:li>A Simple Inequality</rdf:li>
+                <rdf:li>Euler's Formula</rdf:li>
+                <rdf:li>A Problem in Graph Theory</rdf:li>
+                <rdf:li>Gray Codes</rdf:li>
+                <rdf:li>Findig Edge-Disjoint Path in a Graph</rdf:li>
+                <rdf:li>Arithmetic versus Geometric Mean Theorem</rdf:li>
+                <rdf:li>Loop invariants: Converting a Decimal Number to Binary</rdf:li>
+                <rdf:li>Common Errors</rdf:li>
+                <rdf:li>Summary</rdf:li>
+                <rdf:li>Review</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 3 Analysis of Algorithms">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>The 0 Notation</rdf:li>
+                <rdf:li>Time and Space Complexity</rdf:li>
+                <rdf:li>Summations</rdf:li>
+                <rdf:li>Recurrence Relations</rdf:li>
+                <rdf:li>Useful Facts</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 4 Data Structures">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Elementary Data Structures</rdf:li>
+                <rdf:li>Trees</rdf:li>
+                <rdf:li>Hashing
+                </rdf:li>
+                <rdf:li>The Union-Find Problem</rdf:li>
+                <rdf:li>Graphs</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 5 Design of Algorithms by Induction">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Evaluating Polynomials</rdf:li>
+                <rdf:li>Maximal Induced Sugraph</rdf:li>
+                <rdf:li>Finding One-to-One Mappings</rdf:li>
+                <rdf:li>The Celebrity Problem</rdf:li>
+                <rdf:li>A Divide-and-Conquer Algorithm: The Skyline Problem</rdf:li>
+                <rdf:li>Computing Balance Factors in Binary Trees</rdf:li>
+                <rdf:li>Finding the Maximum Consecutive Subsequence</rdf:li>
+                <rdf:li>Strengthening the Induction Hypothesis</rdf:li>
+                <rdf:li>Dynamic Programming: The Knapsack Problem</rdf:li>
+                <rdf:li>Common Errors</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 6 Algorithms Involving Sequences and Sets">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Binary Search and Variations</rdf:li>
+                <rdf:li>Interpolation Search</rdf:li>
+                <rdf:li>Sorting</rdf:li>
+                <rdf:li>Order Statistics</rdf:li>
+                <rdf:li>Data Compression</rdf:li>
+                <rdf:li>String Matching</rdf:li>
+                <rdf:li>Sequence Comparisons</rdf:li>
+                <rdf:li>Probabilistic Algorithms</rdf:li>
+                <rdf:li>Finding a Majority</rdf:li>
+                <rdf:li>Three Problems Exhibiting Interesting Proof Techniques</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 7 Graph Algorithms">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Eulerian Graphs</rdf:li>
+                <rdf:li>Graph Transversal</rdf:li>
+                <rdf:li>Topological Sorting</rdf:li>
+                <rdf:li>Single-Source Shortest Paths</rdf:li>
+                <rdf:li>Minimum-Cost Spanning Trees</rdf:li>
+                <rdf:li>All Shortest Paths</rdf:li>
+                <rdf:li>Transitive Closure</rdf:li>
+                <rdf:li>Decompositions of Graphs</rdf:li>
+                <rdf:li>Matching
+                </rdf:li>
+                <rdf:li>Network Flows</rdf:li>
+                <rdf:li>Hamiltonian Tours</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 8 Geometric Algorithms">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Determining Whether a Point Is Inside a Polygon</rdf:li>
+                <rdf:li>Constructing Simple Polygons</rdf:li>
+                <rdf:li>Convex Hulls</rdf:li>
+                <rdf:li>Closest Pair</rdf:li>
+                <rdf:li>Intersections of Horizontal and Vertical Line Segments</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 9 Algebraic and Numeric Algorithms">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Exponentiation</rdf:li>
+                <rdf:li>Euclid's Algorithm</rdf:li>
+                <rdf:li>Polynomial Multiplication</rdf:li>
+                <rdf:li>Matrix Multiplication</rdf:li>
+                <rdf:li>The Fast Fourier Transform</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 9 Algebraic and Numeric Algorithms">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Exponentiation</rdf:li>
+                <rdf:li>Euclid's Algorithm</rdf:li>
+                <rdf:li>Polynomial Multiplication</rdf:li>
+                <rdf:li>Matrix Multiplication</rdf:li>
+                <rdf:li>The Fast Fourier Transform</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 10 Reductions">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Examples of Reductions</rdf:li>
+                <rdf:li>Reduction Involving Sequence Comparisons</rdf:li>
+                <rdf:li>Reduction for Lower Bounds</rdf:li>
+                <rdf:li>Common Errors</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 11 NP-Completeness">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Polynomial-Time Reductions</rdf:li>
+                <rdf:li>Nondeterminism and Cook's Theorem</rdf:li>
+                <rdf:li>Examples of NP-Completeness Proofs</rdf:li>
+                <rdf:li>Techiniques For Dealing with NP-Complete Problems</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Chapter 12 Parallel Algorithms">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduction</rdf:li>
+                <rdf:li>Models of Parallel Computation</rdf:li>
+                <rdf:li>Algorithms for Shared-Memory Machines</rdf:li>
+                <rdf:li>Algorithms for Interconnection Nem oils</rdf:li>
+                <rdf:li>Systolic Computation</rdf:li>
+                <rdf:li>Summary</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

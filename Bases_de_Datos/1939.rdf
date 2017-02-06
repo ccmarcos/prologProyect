@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="CREACION DE UNA TABLA PARA BASE DE DATOS DEL MODELO RELACIONAL Y EXPLOTACION DE LA INFORMACION QUE CONTIENE">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>INTRODUCCION</rdf:li>
+                <rdf:li>CAPITULO I</rdf:li>
+                <rdf:li>CAPITULO II</rdf:li>
+                <rdf:li>CAPITULO III</rdf:li>
+                <rdf:li>CAPITULO IV</rdf:li>
+                <rdf:li>CAPITULO V</rdf:li>
+                <rdf:li>CAPITULO VI</rdf:li>
+                <rdf:li>CAPITULO VII</rdf:li>
+                <rdf:li>CAPITULO VIII</rdf:li>
+                <rdf:li>APENDICE A</rdf:li>
+                <rdf:li>APENDICE B</rdf:li>
+                <rdf:li>BIBLIOGRAFIA</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO I">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>ANANLISIS SINTACTICO</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO II">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>PREPARACION DE PARAMETROS EN EL DIMENSIONAMIENTO EN LA BASE DE DATOS AL TIEMPO DE CREACION</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO III">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>ALMACENAMIENTO DE INFORMACION COMPRIMIDA, COMPACTADA Y RELACIONADA</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO IV">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>CONSULTA</rdf:li>
+                <rdf:li>4.1. CUANTOS</rdf:li>
+                <rdf:li>4.2. LISTA</rdf:li>
+                <rdf:li>4.3. ORDENA</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO V">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>ELIMINA</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO VI">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>CORRECION</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO VII">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>RESUMEN</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="APENDICE A">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>MANUAL DE ENVIR EN ESPAÑOL PARA EL USUARIO</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="APENDICE B">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>EJEMPLO CREADO INTERACTIVAMENTE PARA ILUSTRAR EL MANEJO DE ENVIR</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="BIBLIOGRAFIA">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li></rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="AN AUTOMATED DATABASE DESIGN TOOL USING THE ELKA C">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>Introduction and Scope</rdf:li>
+                <rdf:li>The ELKA conceptual model</rdf:li>
+                <rdf:li>The datbase design support system</rdf:li>
+                <rdf:li>The Conceptual Model Definition Language LDMC</rdf:li>
+                <rdf:li>The mapping of a conceptual model into a conceptual and a logical shcema</rdf:li>
+                <rdf:li>Testing the modeling power of the formalism</rdf:li>
+                <rdf:li>Current status and future work</rdf:li>
+                <rdf:li>References</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+</rdf:RDF>

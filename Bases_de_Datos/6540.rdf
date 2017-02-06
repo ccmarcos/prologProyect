@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="INTRODUCCION A LOS SISTEMAS DE BASES DE DATOS">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>Panorama general de la administracion de bases de datos</rdf:li>
+                <rdf:li>Arquitectura de los sistemas de bases de datos</rdf:li>
+                <rdf:li>Una introduccion a las bases de datos relacionales</rdf:li>
+                <rdf:li>Introduccion a SQL</rdf:li>
+                <rdf:li>Dominios, relaciones y varrels base</rdf:li>
+                <rdf:li>Algebra relacional</rdf:li>
+                <rdf:li>Calculo relacional</rdf:li>
+                <rdf:li>Integridad</rdf:li>
+                <rdf:li>Vistas</rdf:li>
+                <rdf:li>Dependencias funcionales</rdf:li>
+                <rdf:li>Normalizacion adicional I: 1FN, 2FN, 3FN, FNBC</rdf:li>
+                <rdf:li>Normalizacion adicional II: formas normales superiores</rdf:li>
+                <rdf:li>Modelado semantico</rdf:li>
+                <rdf:li>Recuperacion</rdf:li>
+                <rdf:li>Concurrencia</rdf:li>
+                <rdf:li>Seguridad</rdf:li>
+                <rdf:li>Optimizacion</rdf:li>
+                <rdf:li>Informacion faltante</rdf:li>
+                <rdf:li>Herencia de tipo</rdf:li>
+                <rdf:li>Base de datos distribida</rdf:li>
+                <rdf:li>Apoyo para la toma de decisiones</rdf:li>
+                <rdf:li>Base de datos temporales</rdf:li>
+                <rdf:li>Bases de datos basadas en logica</rdf:li>
+                <rdf:li>Bases de datos de objetos</rdf:li>
+                <rdf:li>Bases de datos objetos/relacionales</rdf:li>
+                <rdf:li>APENDICE A Expresiones SQL</rdf:li>
+                <rdf:li>APENDICE B Una panoramica a SQL3</rdf:li>
+                <rdf:li>APENDICE C</rdf:li>
+                <rdf:li>iNDICE</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Panorama general de la administracion de bases de datos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>¿Que es un sistema de bases de datos?></rdf:li>
+                <rdf:li>¿Que es una base de datos?</rdf:li>
+                <rdf:li>¿Porque una base de datos?</rdf:li>
+                <rdf:li>La independencia de los datos</rdf:li>
+                <rdf:li>Los sistemas relacionales y otros sistemas</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Arquitectura de los sistemas de bases de datos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Los tres niveles de la aquitectura</rdf:li>
+                <rdf:li>El nivel externo</rdf:li>
+                <rdf:li>El nivel conceptual</rdf:li>
+                <rdf:li>El nivel interno</rdf:li>
+                <rdf:li>Transformaciones</rdf:li>
+                <rdf:li>El administrador de base de datos</rdf:li>
+                <rdf:li>El sistema de administracion de base de datos</rdf:li>
+                <rdf:li>El administrador de comunicaciones de datos</rdf:li>
+                <rdf:li>Arquitectura clietne-servidor</rdf:li>
+                <rdf:li>Utilerias</rdf:li>
+                <rdf:li>El procesamiento distribuido</rdf:li>
+                <rdf:li>Resumen</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Una introduccion a las bases de datos relacionales">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Una mirada informal al modelo relacional</rdf:li>
+                <rdf:li>Relaciones y variables de relacion</rdf:li>
+                <rdf:li>Que significa las relaciones</rdf:li>
+                <rdf:li>Optimizacion</rdf:li>
+                <rdf:li>El catalogo</rdf:li>
+                <rdf:li>Variables de relacion base y vistas</rdf:li>
+                <rdf:li>Transacciones</rdf:li>
+                <rdf:li>La base de datos de proveedores y partes</rdf:li>
+                <rdf:li>Resumen</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Introduccion a SQL">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Generalidades</rdf:li>
+                <rdf:li>El catalogo</rdf:li>
+                <rdf:li>Vistas</rdf:li>
+                <rdf:li>Transacciones</rdf:li>
+                <rdf:li>SQL incrustado</rdf:li>
+                <rdf:li>SQL no es perfecto</rdf:li>
+                <rdf:li>Resumen</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Dominios, relaciones y varrels base">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Dominios</rdf:li>
+                <rdf:li>Valores de relacion</rdf:li>
+                <rdf:li>Variables de relacion</rdf:li>
+                <rdf:li>Propiedades de SQL</rdf:li>
+                <rdf:li>Resumen</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Algebra relacional">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Revision de la propiedad de cierre</rdf:li>
+                <rdf:li>Sintaxis</rdf:li>
+                <rdf:li>Semantica</rdf:li>
+                <rdf:li>Ejemplos</rdf:li>
+                <rdf:li>¿Para que sirve el algebra?</rdf:li>
+                <rdf:li>Operadores adicionales</rdf:li>
+                <rdf:li>Agrupamiento y desagrupamiento</rdf:li>
+                <rdf:li>Comparaciones relacionales</rdf:li>
+                <rdf:li>Resumen</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Calculo relacional">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Calculo de tuplas</rdf:li>
+                <rdf:li>Ejemplos</rdf:li>
+                <rdf:li>El calculo frente al algebra</rdf:li>
+                <rdf:li>Posibilidades computacionales</rdf:li>
+                <rdf:li>Calculo de dominios</rdf:li>
+                <rdf:li>Propiedades de SQL</rdf:li>
+                <rdf:li>Resumen</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Integridad">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Restricciones de tipo</rdf:li>
+                <rdf:li>Restricciones de atributo</rdf:li>
+                <rdf:li>Restricciones de varrel</rdf:li>
+                <rdf:li>Restricciones de base de datos</rdf:li>
+                <rdf:li>La regla de oro</rdf:li>
+                <rdf:li>Restricciones de estado frente a Restricciones de transaccion</rdf:li>
+                <rdf:li>Claves</rdf:li>
+                <rdf:li>Propiedades de SQL</rdf:li>
+                <rdf:li>Resumen</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Vistas">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>¿Para que son las vistas?</rdf:li>
+                <rdf:li>Actualizacion de las vistas</rdf:li>
+                <rdf:li>Instantaneas (una desviacion)</rdf:li>
+                <rdf:li>Propiedades de SQL</rdf:li>
+                <rdf:li>Resumen</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Dependencias funcionales">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Definiciones basicas</rdf:li>
+                <rdf:li>Dependencias triviales y no triviales</rdf:li>
+                <rdf:li>Cierre de un conjunto de dependencias</rdf:li>
+                <rdf:li>Cierre de un conjunto de atributos</rdf:li>
+                <rdf:li>Conjunto de dependencias Irreducibles</rdf:li>
+                <rdf:li>Resumen</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Normalizacion adicional I: 1FN, 2FN, 3FN, FNBC">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>La descomposicion sin perdida y las dependencias funcionales</rdf:li>
+                <rdf:li>Primera, segunda y tercera formas formales</rdf:li>
+                <rdf:li>Conservacion de la dependencia</rdf:li>
+                <rdf:li>Forma normal de Boyce/Codd</rdf:li>
+                <rdf:li>Una observacion sobre los atributos con valor de relacion</rdf:li>
+                <rdf:li>Resumen</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Normalizacion adicional II: formas normales superiores">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Introduccion</rdf:li>
+                <rdf:li>Las dependencias multivaluadas y la cuarta forma normal</rdf:li>
+                <rdf:li>Las dependencias de junta y la quinta forma normal</rdf:li>
+                <rdf:li>El proceso de normalizacion resumido</rdf:li>
+                <rdf:li>Una nota sobre desnormalizacion</rdf:li>
+                <rdf:li>El diseño ortogonal (un tema independiente)</rdf:li>
+                <rdf:li>Otras formas normales</rdf:li>
+                <rdf:li>Resumen</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

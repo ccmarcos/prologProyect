@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="DISTRIBUTED DATABASES: PRINCIPLES AND SYSTEMS">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>CHAPTER 1 DISTRIBUTED DATABASES: AN OVERVIEW</rdf:li>
+                <rdf:li>CHAPTER 2 REVIEW OF DATABASES AND COMPUTER NETWORK</rdf:li>
+                <rdf:li>CHAPTER 3 LEVELS OF DISTRIUTED TRANSPARENCY</rdf:li>
+                <rdf:li>CHAPTER 4 DISTRIBUTED DATABASES DESIGN</rdf:li>
+                <rdf:li>CHAPTER 5 TRANSLATION OF GLOBAL QUERIES TO FRAGMENT QUERIES</rdf:li>
+                <rdf:li>CHAPTER 6 OPTIMIZATION OF ACCES STRATEGIES</rdf:li>
+                <rdf:li>CHAPTER 7 THE MANAGEMENT OF DISTRIBUTED TRANSACTIONS</rdf:li>
+                <rdf:li>CHAPTER 8 CONCURRENCY CONTROL</rdf:li>
+                <rdf:li>CHAPTER 9 RELIABILITY</rdf:li>
+                <rdf:li>CHAPTER 10 DISTRIBUTED DATABASES ADMINISTRATION</rdf:li>
+                <rdf:li>CHAPTER 11 COMERCIAL SYSTEMS</rdf:li>
+                <rdf:li>CHAPTER 12 SDD-1: A SYSTEM FOR DISTRIBUTED DATABASES</rdf:li>
+                <rdf:li>CHAPTER 13 THE R* PROJECT</rdf:li>
+                <rdf:li>CHAPTER 14 OTHER HOMOGENEOUS DISTRIBUTED DATABASES SYSTEMS</rdf:li>
+                <rdf:li>CHAPTER 15 HETEROGENEOUS DISTRIBUTED DATABASES SYSTEMSA</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 1 DISTRIBUTED DATABASES: AN OVERVIEW">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>FEATURES OF DISTRIBUTED VERUS CENTRALICED DATABASES</rdf:li>
+                <rdf:li>WHY DISTRIBUTED DATABASES?</rdf:li>
+                <rdf:li>DISTRIBUTED DATABASES MANAGEMENT SYSTEMS (DDBMSs)</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 2 REVIEW OF DATABASES AND COMPUTER NETWORK">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>REVIEW OF DATABASES</rdf:li>
+                <rdf:li>REVIEW OF COMPUTER NETWORKS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 3 LEVELS OF DISTRIUTED TRANSPARENCY">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>REFERENCE ARCHITECTURE FOR DISTRIBUTED DATABASES</rdf:li>
+                <rdf:li>TYPES OF FRAGMENTATION</rdf:li>
+                <rdf:li>DISTRIBUTION TRANSPARENCY FOR REAL-ONLY APPLICATIONS</rdf:li>
+                <rdf:li>DISTRIBUTION TRANSPARENCY FOR UPDATE APPLICATIONS</rdf:li>
+                <rdf:li>DISTRIBUTED DATABASES ACCES PRIMITIVES</rdf:li>
+                <rdf:li>INTEGRITY CONSTRAINTS IN DITRIBUTED DATABASES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 4 DISTRIBUTED DATABASES DESIGN">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>A FRAMEWORK FOR DISTRIBUTED DATABASES DESIGN</rdf:li>
+                <rdf:li>THE DESIGN OF DATABASES FRAGMENTATION</rdf:li>
+                <rdf:li>THE ALLOCATION OF FRAGMENTS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 5 TRANSLATION OF GLOBAL QUERIES TO FRAGMENT QUERIES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>EQUIVALENCE TRANSFORMATIONS FOR QUERIES</rdf:li>
+                <rdf:li>TRANSFORMING GLOBAL QUERIES INTO FRAGMENT QUERIES</rdf:li>
+                <rdf:li>DISTRIBUTED GROUPING AND AGGREGATE FUNCTION EVALUATION</rdf:li>
+                <rdf:li>PARAMETRIC QUERIES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 6 OPTIMIZATION OF ACCES STRATEGIES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>A FRAMEWORK FOR QUERY OPTIMIZATION</rdf:li>
+                <rdf:li>JOIN QUERIES</rdf:li>
+                <rdf:li>GENERAL QUERIES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 7 THE MANAGEMENT OF DISTRIBUTED TRANSACTIONS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>A FRAMEWORK FOR TRANSACTION MANAGEMENT</rdf:li>
+                <rdf:li>SUPPONTING ATOMICITY OF DISTRIBUTED TRANSACTIONS</rdf:li>
+                <rdf:li>CONCURRENCY CONTROL FOR DISTRIBUTED TRANSACTIONS</rdf:li>
+                <rdf:li>ARCHITECTURAL ASPECTS OF DISTRIBUTED TRANSACTIONS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 8 CONCURRENCY CONTROL">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>FOUNDATIONS OF DISTRIBUTED CONCURRENCY CONTROL</rdf:li>
+                <rdf:li>DISTRIBUTED DEADLOCKS</rdf:li>
+                <rdf:li>CONCURRENCY CONTROL BASED ON TIMESAMPS</rdf:li>
+                <rdf:li>OPTIMISTIC MEHOTDS FOR DISTRIBUTED CONCURRENCY CONTROL</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 9 RELIABILITY">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>BASIC CONCEPTS</rdf:li>
+                <rdf:li>NONBLOCKING COMMITMENT PROTOCOLS</rdf:li>
+                <rdf:li>REABILITY AND CONCURRENCY CONTROL</rdf:li>
+                <rdf:li>DETERMINING A CONSISTENT VIEW OF THE NETWORK</rdf:li>
+                <rdf:li>DETECTION AND RESOLUTION OF INCONSISTENCY</rdf:li>
+                <rdf:li>CHECKPOINTS AND COLD RESTART</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 10 DISTRIBUTED DATABASES ADMINISTRATION">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>CATALOG MANAGEMENT IN DISTRIBUTED DATABASES</rdf:li>
+                <rdf:li>AUTHORIZATION AND PROTECTION</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 11 COMERCIAL SYSTEMS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>TANDEM´s ENCOMPAS DISRIBUTED DATABASES SYSTEM</rdf:li>
+                <rdf:li>IMB´s INTER SYSTEMS COMMUNICATION</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 12 SDD-1: A SYSTEM FOR DISTRIBUTED DATABASES">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>ARCHITECTURE</rdf:li>
+                <rdf:li>CONNCURRENCY CONTROL (READ PHASE)</rdf:li>
+                <rdf:li>EXECUTION OF QUERIES (EXECUTE PHASE)</rdf:li>
+                <rdf:li>RELIABILITY AND TRANSACTION COMMITMENT (WRITE PHASE)</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 13 THE R* PROJECT">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>ARCHITECTURE OF R*</rdf:li>
+                <rdf:li>COMPILATION, EXECUTION ADN RECOMPLATION OF QUERIES</rdf:li>
+                <rdf:li>VIEW MANAGEMENT</rdf:li>
+                <rdf:li>PROTOCOLS FOR DATA DEFINITION AND AUTHORIZATION IN R*</rdf:li>
+                <rdf:li>TRANSACTION MANAGEMENT</rdf:li>
+                <rdf:li>TERMINAL MANAGEMENT</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 14 OTHER HOMOGENEOUS DISTRIBUTED DATABASES SYSTEMS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>DDM: A DISTRIBUTED DATABASES MANAGER BASED ON ADAPLEX</rdf:li>
+                <rdf:li>DISTRIBUTED-INGRES</rdf:li>
+                <rdf:li>POREL</rdf:li>
+                <rdf:li>SIRIUS-DELTA</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CHAPTER 15 HETEROGENEOUS DISTRIBUTED DATABASES SYSTEMSA">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>PROBLEMS OF HETEROGENEOUS DISTRIBUTED DATABASES</rdf:li>
+                <rdf:li>MULTIBASE</rdf:li>
+                <rdf:li>DDTS: A DISTRIBUTED TESTBED SYSTEM</rdf:li>
+                <rdf:li>HETEROGENEOUS SIRIUS-DELTA</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

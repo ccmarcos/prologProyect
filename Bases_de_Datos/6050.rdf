@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="COMO USAR DBASE III PLUS : INCLUYE AVANCE DE DBASE">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>CAPITULO 1 Que es una base de datos</rdf:li>
+                <rdf:li>CAPITULO 2 Como construir una base de datos</rdf:li>
+                <rdf:li>CAPITULO 3 Como buscar informacion en una base de datos</rdf:li>
+                <rdf:li>CAPITULO 4 Como se ordena o clasifica una base de datos</rdf:li>
+                <rdf:li>CAPITULO 5 Como editar y modificar las bases de datos</rdf:li>
+                <rdf:li>CAPITULO 6 Como crear e imprimir Informes Preformateados</rdf:li>
+                <rdf:li>CAPITULO 7 Como diseñar pantallas personalizadas de interaccion</rdf:li>
+                <rdf:li>CAPITULO 8 Como se manejan los numeros y las fechas con dBASE III PLUS</rdf:li>
+                <rdf:li>CAPITULO 9 Como manejar varias bases de datos simultaneamente</rdf:li>
+                <rdf:li>CAPITULO 10 Como organizar las bases de datos para optimizar archivos</rdf:li>
+                <rdf:li>CAPITULO 11 Como funcionan las variables disidentes en memoria</rdf:li>
+                <rdf:li>CAPITULO 12 Como crear archivos de comandos</rdf:li>
+                <rdf:li>CAPITULO 13 Como hacer que un programa tome desiciones</rdf:li>
+                <rdf:li>CAPITULO 14 Como diseñar y desarrollar programas para dBASE III PLUS</rdf:li>
+                <rdf:li>CAPITULO 15 Tecnicas para la depuracion de programas</rdf:li>
+                <rdf:li>CAPITULO 16 Como diseñar un sistema para manejar su correspondencia</rdf:li>
+                <rdf:li>CAPITULO 17 El generador de Aplicaciones</rdf:li>
+                <rdf:li>CAPITULO 18 Como intercambiar data con otros programas</rdf:li>
+                <rdf:li>Apendice</rdf:li>
+                <rdf:li>Indice de comandos</rdf:li>
+                <rdf:li>Indice tematico</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO 1 Que es una base de datos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>¿En que consiste la administracion o manejo de una base de datos?</rdf:li>
+                <rdf:li>¿Por que debe usar el Generador de Aplicaciones?</rdf:li>
+                <rdf:li>Como poner en marcha a dBASE III PLUS</rdf:li>
+                <rdf:li>Computadoras con dos unidades de disquete</rdf:li>
+                <rdf:li>Computadoras con disco duro</rdf:li>
+                <rdf:li>Computadoras en sistemas de redes de area local</rdf:li>
+                <rdf:li>Como elegir los colores de la pantalla del monitor de la computadora</rdf:li>
+                <rdf:li>Como personalizar la configuracion de dBASE III PLUS</rdf:li>
+                <rdf:li>Aprenda a usar la pantalla que muestra el menu</rdf:li>
+                <rdf:li>El punto "." de interaccion o de comando --[dot promt]--</rdf:li>
+                <rdf:li>Como se obtiene ayuda en linea sobre la pantalla</rdf:li>
+                <rdf:li>Como se crea una base de datos</rdf:li>
+                <rdf:li>Como se abre una base de datos</rdf:li>
+                <rdf:li>Como introducir data a la base de datos</rdf:li>
+                <rdf:li>El teclado numerico y las teclas direccionales del cursor</rdf:li>
+                <rdf:li>Como recuperar los registros de una base de datos</rdf:li>
+                <rdf:li>Como se le indica a dBASE los campus que deben aparecer sobre la pantalla</rdf:li>
+                <rdf:li>Como se introducen los comandos desde el panto "." de interaccion de dBASE</rdf:li>
+                <rdf:li>Como almacenar su trabajo en el disco</rdf:li>
+                <rdf:li>Como copiar archivos creados con dBASE III PLUS a otro disco</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO 2 Como construir una base de datos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Como construir los criterios de busqueda usando la opcion LISTAR --LIST--</rdf:li>
+                <rdf:li>Como se especifican los criterios de busqueda</rdf:li>
+                <rdf:li>Como combinar varias condiciones de busqueda</rdf:li>
+                <rdf:li>Como iniciar la busqueda desde el punto "." de interaccion --[dot prompt]--</rdf:li>
+                <rdf:li>Como realizar una busqueda usando el comando LIST</rdf:li>
+                <rdf:li>Como realizar una busqueda usando el comando Locate</rdf:li>
+                <rdf:li>Como realizar una busqueda que solo encuentre lo que usted desea</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO 3 Como buscar informacion en una base de datos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Como ordenar o clasificar una base de datos con la opcion Ordenar --[SORT]--</rdf:li>
+                <rdf:li>Como usar la opcion Indexar —[Index]-- para crear un archivo indice</rdf:li>
+                <rdf:li>¿Se puede usar mas de un criterio de clasificacion?</rdf:li>
+                <rdf:li>Como indexar las bases de datos desde el punto "." de interaccion</rdf:li>
+                <rdf:li>Como realizar la busqueda de un registro con un archivo indice</rdf:li>
+                <rdf:li>Como se usa el comando Editar --[Edit]--</rdf:li>
+                <rdf:li>Como se modifica o edita un registro</rdf:li>
+                <rdf:li>Como editar con el comando EDIT desde el punto "." de interaccion</rdf:li>
+                <rdf:li>Como editar en forma global</rdf:li>
+                <rdf:li>Como eliminar registros de una base de datos</rdf:li>
+                <rdf:li>Como se marcan los registros que desea eliminar de la base de datos</rdf:li>
+                <rdf:li>Como compactar la base de datos para eliminar los registros marcados</rdf:li>
+                <rdf:li>Como suprimir registros desde el punto "." de interaccion</rdf:li>
+                <rdf:li>Como se modifica la estructura de una base de datos</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO 4 Como se ordena o clasifica una base de datos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Como ordenar o clasificar una base de datos con la opcion Ordenar --[SORT]--</rdf:li>
+                <rdf:li>Como usar la opcion indexar --[INDEX]-- para crear un archivo indice</rdf:li>
+                <rdf:li>¿Se puede usar mas de un criterio de clasificacion?</rdf:li>
+                <rdf:li>Como indexar las bases de datos desde el punto "." de interaccion</rdf:li>
+                <rdf:li>Como realizar la busqueda de un registro con un archivo indice</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO 5 Como editar y modificar las bases de datos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Como se usa el comando Editar--[EDIT]--</rdf:li>
+                <rdf:li>Como se modifica o edita un registro</rdf:li>
+                <rdf:li>Como se edita con el comando Hojear --[Browse]--</rdf:li>
+                <rdf:li>Como usar el comando EDIT desde el punto "." de interaccion</rdf:li>
+                <rdf:li>Como editar el forma global</rdf:li>
+                <rdf:li>Como eliminar registros de una base de datos</rdf:li>
+                <rdf:li>Como se marcan los registros que desea eliminar de la base de datos</rdf:li>
+                <rdf:li>Como compactar la base de datos para elimnar los registros marcados</rdf:li>
+                <rdf:li>Como suprimir los registros desde el punto "." de interaccion</rdf:li>
+                <rdf:li>Como se modifica la estructura de una base de datos</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO 6 Como crear e imprimir Informes Preformateados">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Como se crea el formato para elborar un informe</rdf:li>
+                <rdf:li>Como almacenar el formato para un ingorme</rdf:li>
+                <rdf:li>Como realizar la impresion de un informe</rdf:li>
+                <rdf:li>Como se modifica el formato de un informe</rdf:li>
+                <rdf:li>Como crear etiquetas postales con la informacion de una base de datos</rdf:li>
+                <rdf:li>Como se imprimen las etiquetas</rdf:li>
+                <rdf:li>Como se modifican los formatos para las etiquetas</rdf:li>
+                <rdf:li>Como utilizar los comandos LABEL y REPORT desde el punto "." de interaccion</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO 7 Como diseñar pantallas personalizadas de interaccion">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Como se crea una pantalla especial de interaccion adaptada a sus necesidades</rdf:li>
+                <rdf:li>Como se manipula la informacion en el Pizarron del Pintor de pantalla</rdf:li>
+                <rdf:li>Como se cambia el nombre de un campo</rdf:li>
+                <rdf:li>Como dibujar un marco o linea doble</rdf:li>
+                <rdf:li>Como se almacena el formato en el disco</rdf:li>
+                <rdf:li>Como crear una plantilla</rdf:li>
+                <rdf:li>Como se usa un formato especial</rdf:li>
+                <rdf:li>Las opciones del Menu Modificar --[Modify]--</rdf:li>
+                <rdf:li>Como agregar, cambiar y suprimir campos</rdf:li>
+                <rdf:li>Como crear las pantallas desde el punto "." de interaccion</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO 8 Como se manejan los numeros y las fechas con dBASE III PLUS">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Como sumar cantidades en una base de datos</rdf:li>
+                <rdf:li>Como promediar cantidades nunericas en una base de datos</rdf:li>
+                <rdf:li>Como realizar el conteo de los registros de una base de datos</rdf:li>
+                <rdf:li>Como imprimir totales y subtotales en un informe</rdf:li>
+                <rdf:li>Como obtener subtotales de subtotales en un informe</rdf:li>
+                <rdf:li>Como crear informes resumidos</rdf:li>
+                <rdf:li>Como usar los comandos desde el punto "." de interaccion</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO 9 Como manejar varias bases de datos simultaneamente">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Como diseñar una base de datos para cuentas por cobrar</rdf:li>
+                <rdf:li>Como preparar una Relacion --[View]-- entre bases de datos</rdf:li>
+                <rdf:li>Como se abren multiples bases de datos</rdf:li>
+                <rdf:li>Como especificar el cambio que relaciona las bases de datos</rdf:li>
+                <rdf:li>Como seleccionar los campos a relacionar</rdf:li>
+                <rdf:li>Como abrir un archivo de relacion</rdf:li>
+                <rdf:li>Como imprimir un informe desde dos bases de datos</rdf:li>
+                <rdf:li>Como modificar un archivo relacional</rdf:li>
+                <rdf:li>Como cerrar un archivo de relacion --[View]--</rdf:li>
+                <rdf:li>Como utilizar los comandos desde el punto "." de interaccion</rdf:li>
+                <rdf:li>Como diseñar una base de datos que sirva para llevar el inventario</rdf:li>
+                <rdf:li>Como crear el archivo maestro y el archivo de transacciones de inventario</rdf:li>
+                <rdf:li>El sistema de inventario</rdf:li>
+                <rdf:li>Como actualizar las bases de datos</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="CAPITULO 10 Como organizar las bases de datos para optimizar archivos">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Que es la Caja de Herramientas</rdf:li>
+                <rdf:li>La opcion Fijar manej disco --[Set Drive]--</rdf:li>
+                <rdf:li>La opcion Copiar archivo --[Copy</rdf:li>
+                <rdf:li>La opcion Directorio --[Directory]--</rdf:li>
+                <rdf:li>La opcion Renombrar --[Rename]--</rdf:li>
+                <rdf:li>La opcion Borrar --[Erase]--</rdf:li>
+                <rdf:li>La opcion Listar estructura -- [List Structure]--</rdf:li>
+                <rdf:li>Las opciones Importar y Exportar --[Import y Export]--</rdf:li>
+                <rdf:li>Como controlar los archivos asociados con una base de datos</rdf:li>
+                <rdf:li>Para que se usan los archivos con extension .QRY</rdf:li>
+                <rdf:li>Como configurar las condiciones de busqueda de informacion en una base de datos</rdf:li>
+                <rdf:li>Como recuperar un fichero con extension .QRY</rdf:li>
+                <rdf:li>Como desactivar el Filtro --[Query]— que contiene las condiciones de busqueda</rdf:li>
+                <rdf:li>Como modificar un formato de Filtro --[Query]--</rdf:li>
+                <rdf:li>Tecnicas avanzadas para configurar las condiciones de busqueda</rdf:li>
+                <rdf:li>Como optimizar el rendimiento al hacer una busqueda</rdf:li>
+                <rdf:li>Como realizar la busqueda de registros indexados</rdf:li>
+                <rdf:li>Como especificar el ambito de una busqueda</rdf:li>
+                <rdf:li>Como usar las otras opciones para accesar la informacion en una base de datos</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

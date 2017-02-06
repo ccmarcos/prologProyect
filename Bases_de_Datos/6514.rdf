@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="INTRODUCTION ALGORITHMS : A CREATIVE APPROACH">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>Informal Introduction to Abstract Modules</rdf:li>
+                <rdf:li>Module Specifications</rdf:li>
+                <rdf:li>Basic Operations on Module Specifications</rdf:li>
+                <rdf:li>General Operations on Module Specifications</rdf:li>
+                <rdf:li>Refinement, Interface Especifications, and Realizations</rdf:li>
+                <rdf:li>Development Categories, Simulations, and Transformation</rdf:li>
+                <rdf:li>Constraints</rdf:li>
+                <rdf:li>Module Specifications and Operations With Constraints</rdf:li>
+                <rdf:li>Abstract ACT ONE and ACT TWO</rdf:li>
+                <rdf:li>Summary of Basic Notions</rdf:li>
+                <rdf:li>Bibliography</rdf:li>
+                <rdf:li>Subject Indexes</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Informal Introduction to Abstract Modules">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Towards Modularization in Software Development</rdf:li>
+                <rdf:li>Modules and Modularization in Programming and Specification Languages</rdf:li>
+                <rdf:li>Concepts for Abstract Modules and Modular Systems</rdf:li>
+                <rdf:li>Informal Introduction to Algebraic Specification of Modules and Modular Systems</rdf:li>
+                <rdf:li>Abstract Data Types and Abstract Modules
+                </rdf:li>
+                <rdf:li>Bibliographic Notes</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Module Specifications">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Syntax Modulepecifications</rdf:li>
+                <rdf:li>Distributive LawsRestriction Convention and Conservative Functors</rdf:li>
+                <rdf:li>Semantics and Correctness of Module Specifications</rdf:li>
+                <rdf:li>Modular Specification of an Airport Schedule: Part 1</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Basic Operations on Module Specifications">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Composition</rdf:li>
+                <rdf:li>Union</rdf:li>
+                <rdf:li>Actualization</rdf:li>
+                <rdf:li>Distributive Laws</rdf:li>
+                <rdf:li>Modular Specification of an Airport Schedule System: Part 2</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="General Operations on Module Specifications">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>General Notion of Operations</rdf:li>
+                <rdf:li>Clean Operations</rdf:li>
+                <rdf:li>Partial Composition and Recursion</rdf:li>
+                <rdf:li>Product and Iteration</rdf:li>
+                <rdf:li>Bibliographic Notes for Chapters 2, 3, and 4</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Refinement, Interface Especifications, and Realizations">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Refinement</rdf:li>
+                <rdf:li>Compatibility of Operations with Development Steps</rdf:li>
+                <rdf:li>Development Categories</rdf:li>
+                <rdf:li>Simulation</rdf:li>
+                <rdf:li>TransformationsBibliographic Notes for Chapters 5 and 6</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Constraints">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Concepts of Constraints</rdf:li>
+                <rdf:li>Logic of Constraints</rdf:li>
+                <rdf:li>Specifications with Constraints</rdf:li>
+                <rdf:li>Parameterized Specifications with Constraints</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Module Specifications and Operations With Constraints">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Module Specifications with Constraints</rdf:li>
+                <rdf:li>Composition with Constraints</rdf:li>
+                <rdf:li>Union with Constraints</rdf:li>
+                <rdf:li>Actualization with Constraints</rdf:li>
+                <rdf:li>Modular Specification of an Airport Schedule System: Part 4</rdf:li>
+                <rdf:li>Discussion and Bibliographic Notes for Chapters 7 and 8</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Abstract ACT ONE and ACT TWO">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Abstract Specifications with Constraints</rdf:li>
+                <rdf:li>Abstract ACT ONE</rdf:li>
+                <rdf:li>Abstract ACT TWO</rdf:li>
+                <rdf:li>Modular Specification of an Airport Schedule System: Part 5</rdf:li>
+                <rdf:li>Bibliographic Notes for Chapter 9</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Summary of Basic Notions">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>Summary of Equational Specifications</rdf:li>
+                <rdf:li>Summary of Parameterized Specifications</rdf:li>
+                <rdf:li>Basic Concepts from Category Theory</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>

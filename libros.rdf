@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:LIBRO="Biblioteca/">
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/1939.rdf">
+        <LIBRO:ficha>1939</LIBRO:ficha>
+        <LIBRO:titulo>CREACION DE UNA TABLA PARA BASE DE DATOS DEL MODELO RELACIONAL Y EXPLOTACION DE LA INFORMACION QUE CONTIENE</LIBRO:titulo>
+        <LIBRO:autor>ALBiZURI R., BEGONA</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 A42</LIBRO:clasificacion>
+        <LIBRO:anio>1980</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/5918.rdf">
+        <LIBRO:ficha>5918</LIBRO:ficha>
+        <LIBRO:titulo>OPERACIONES DE ALGEBRA RELACIONAL PARA EL MANEJO DE BASES DE DATOS, DESARROLLADAS POR CIRCUITERIA DIGITAL</LIBRO:titulo>
+        <LIBRO:autor>CALVARIO, HECTOR</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 C34</LIBRO:clasificacion>
+        <LIBRO:anio>1981</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6515.rdf">
+        <LIBRO:ficha>1939</LIBRO:ficha>
+        <LIBRO:titulo>DATA STRUCTURES USING PASCAL</LIBRO:titulo>
+        <LIBRO:autor>TENENBAUM, AARON M.</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D35 T45</LIBRO:clasificacion>
+        <LIBRO:anio>1981</LIBRO:anio>
+        <LIBRO:ejemplares>1</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/10791.rdf">
+        <LIBRO:ficha>1939</LIBRO:ficha>
+        <LIBRO:titulo>DATA STRUCTURES AND ALGORITHMS</LIBRO:titulo>
+        <LIBRO:autor>AHO, ALFRED V.</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D35 A46</LIBRO:clasificacion>
+        <LIBRO:anio>1983</LIBRO:anio>
+        <LIBRO:ejemplares>1</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6548.rdf">
+        <LIBRO:ficha>1939</LIBRO:ficha>
+        <LIBRO:titulo>DISTRIBUTED DATABASES: PRINCIPLES AND SYSTEMS</LIBRO:titulo>
+        <LIBRO:autor>ceri</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 C47</LIBRO:clasificacion>
+        <LIBRO:anio>1984</LIBRO:anio>
+        <LIBRO:ejemplares>4</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/904.rdf">
+        <LIBRO:ficha>1939</LIBRO:ficha>
+        <LIBRO:titulo>BASES DE DATOS ESTADiSTICAS, PRINCiPALES PROBLEMAS Y POSIBLES SOLUCIONES</LIBRO:titulo>
+        <LIBRO:autor>CARRERA, ROLANDO S.</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 C3774</LIBRO:clasificacion>
+        <LIBRO:anio>1985</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6350.rdf">
+        <LIBRO:ficha>1939</LIBRO:ficha>
+        <LIBRO:titulo>CASE STUDIES IN SPECIFICATION: THE MATHEMATICAL StRUCTURE RELATION</LIBRO:titulo>
+        <LIBRO:autor>QUINTANILLA, GLORIA</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 Q85</LIBRO:clasificacion>
+        <LIBRO:anio>1985</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6793.rdf">
+        <LIBRO:ficha>1939</LIBRO:ficha>
+        <LIBRO:titulo>AN AUTOMATED DATABASE DESIGN TOOL USING THE ELKA C</LIBRO:titulo>
+        <LIBRO:autor>GONZALEZ SUSTAETA, JORGE</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 G65</LIBRO:clasificacion>
+        <LIBRO:anio>1985</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6523.rdf">
+        <LIBRO:ficha>1939</LIBRO:ficha>
+        <LIBRO:titulo>CARACTERISTICAS DE LOS SISTEMAS PARA CAD Y EL USO DE BASES DE DATOS</LIBRO:titulo>
+        <LIBRO:autor>CARRERA, ROLANDO S.</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 C37</LIBRO:clasificacion>
+        <LIBRO:anio>1987</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6509.rdf">
+        <LIBRO:ficha>1939</LIBRO:ficha>
+        <LIBRO:titulo>FUNDAMENTALS OF DATA STRUCTURES IN PASCAL</LIBRO:titulo>
+        <LIBRO:autor>HOROWITZ, ELLIS</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D35 H67</LIBRO:clasificacion>
+        <LIBRO:anio>1987</LIBRO:anio>
+        <LIBRO:ejemplares>1</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/4259.rdf">
+        <LIBRO:ficha>1939</LIBRO:ficha>
+        <LIBRO:titulo>DATABASE DESIGN AND MANAGEMENT AN APPLIED APPROACH</LIBRO:titulo>
+        <LIBRO:autor>STAMPER, DAVID</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 S78</LIBRO:clasificacion>
+        <LIBRO:anio>1990</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6050.rdf">
+        <LIBRO:ficha>1939</LIBRO:ficha>
+        <LIBRO:titulo>COMO USAR DBASE III PLUS : INCLUYE AVANCE DE DBASE</LIBRO:titulo>
+        <LIBRO:autor>SIMPSON, ALAN</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 S547</LIBRO:clasificacion>
+        <LIBRO:anio>1990</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6322.rdf">
+        <LIBRO:ficha>6322</LIBRO:ficha>
+        <LIBRO:titulo>EL PROGRAMA HARTIGAN : MANEJO DE UN PAQUETE DE TE</LIBRO:titulo>
+        <LIBRO:autor>ARDISSON, MONICA</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D35 A73</LIBRO:clasificacion>
+        <LIBRO:anio>1980</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6322.rdf">
+        <LIBRO:ficha>6322</LIBRO:ficha>
+        <LIBRO:titulo>EL PROGRAMA HARTIGAN : MANEJO DE UN PAQUETE DE TE</LIBRO:titulo>
+        <LIBRO:autor>ARDISSON, MONICA</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D35 A73</LIBRO:clasificacion>
+        <LIBRO:anio>1980</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6508.rdf">
+        <LIBRO:ficha>6508</LIBRO:ficha>
+        <LIBRO:titulo>INTRODUCTION ALGORITHMS : A CREATIVE APPROACH</LIBRO:titulo>
+        <LIBRO:autor>MANBER, UDI</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D35 M35</LIBRO:clasificacion>
+        <LIBRO:anio>1989</LIBRO:anio>
+        <LIBRO:ejemplares>1</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6514.rdf">
+        <LIBRO:ficha>6514</LIBRO:ficha>
+        <LIBRO:titulo>FUNDAMENTALS OF ALGEBRAIC SPECIFICATION 2: MODULE</LIBRO:titulo>
+        <LIBRO:autor>EHRIG, HARTMUT</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D35 E47</LIBRO:clasificacion>
+        <LIBRO:anio>1990</LIBRO:anio>
+        <LIBRO:ejemplares>1</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/4045.rdf">
+        <LIBRO:ficha>4045</LIBRO:ficha>
+        <LIBRO:titulo>PARADOX : RELATIONAL DATABASE VERSION 3.5</LIBRO:titulo>
+        <LIBRO:autor>BORLAND INTERNATIONAL</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 B67</LIBRO:clasificacion>
+        <LIBRO:anio>1990</LIBRO:anio>
+        <LIBRO:ejemplares>17</LIBRO:ejemplares>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6561.rdf">
+        <LIBRO:ficha>6561</LIBRO:ficha>
+        <LIBRO:titulo>AN INTRODUCTION TO DATABASE SYSTEMS</LIBRO:titulo>
+        <LIBRO:autor>DATE, C. J.</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 D38</LIBRO:clasificacion>
+        <LIBRO:anio>1990</LIBRO:anio>
+        <LIBRO:ejemplares>3</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6010.rdf">
+        <LIBRO:ficha>6010</LIBRO:ficha>
+        <LIBRO:titulo>A GENERALIZED CONSTRAINT AND EXCEPTION HANDLER FOR</LIBRO:titulo>
+        <LIBRO:autor>BUCHMANN, ALEJANDRO P.</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 B83</LIBRO:clasificacion>
+        <LIBRO:anio>1986</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6793.rdf">
+        <LIBRO:ficha>6793</LIBRO:ficha>
+        <LIBRO:titulo>AN AUTOMATED DATABASE DESIGN TOOL USING THE ELKA C</LIBRO:titulo>
+        <LIBRO:autor>GONZALEZ SUSTAETA, JORGE</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 G65</LIBRO:clasificacion>
+        <LIBRO:anio>1985</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6597.rdf">
+        <LIBRO:ficha>6597</LIBRO:ficha>
+        <LIBRO:titulo>UNA INTRODUCCION A LAS BASES DE DATOS Y A DBASE II</LIBRO:titulo>
+        <LIBRO:autor>ARDISSON, MONICA</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 A73</LIBRO:clasificacion>
+        <LIBRO:anio>1991</LIBRO:anio>
+        <LIBRO:ejemplares>3</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6540.rdf">
+        <LIBRO:ficha>6540</LIBRO:ficha>
+        <LIBRO:titulo>INTRODUCCION A LOS SISTEMAS DE BASES DE DATOS</LIBRO:titulo>
+        <LIBRO:autor>DATE, C. J.</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 D384</LIBRO:clasificacion>
+        <LIBRO:anio>1993</LIBRO:anio>
+        <LIBRO:ejemplares>2</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Biblioteca/Bases_de_Datos/6571.rdf">
+        <LIBRO:ficha>6571</LIBRO:ficha>
+        <LIBRO:titulo>ESTRUCTURA DE DATOS</LIBRO:titulo>
+        <LIBRO:autor>CAIRO, OSVALDO</LIBRO:autor>
+        <LIBRO:clasificacion>QA76.9 D3 C35</LIBRO:clasificacion>
+        <LIBRO:anio>1993</LIBRO:anio>
+        <LIBRO:ejemplares>6</LIBRO:ejemplares>
+        <LIBRO:area>BASES DE DATOS</LIBRO:area>
+    </rdf:Description>
+
+</rdf:RDF>

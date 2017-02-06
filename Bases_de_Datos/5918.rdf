@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ct="Biblioteca/Bases_de_Datos/">
+
+    <rdf:Description rdf:about="OPERACIONES DE ALGEBRA RELACIONAL PARA EL MANEJO DE BASES DE DATOS, DESARROLLADAS POR CIRCUITERIA DIGITAL">
+        <ct:tema>
+            <rdf:Seq>
+                <rdf:li>SECCION 1</rdf:li>
+                <rdf:li>SECCION 2</rdf:li>
+                <rdf:li>SECCION 3</rdf:li>
+                <rdf:li>SECCION 4</rdf:li>
+                <rdf:li>SECCION 5</rdf:li>
+                <rdf:li>SECCION 6</rdf:li>
+                <rdf:li>SECCION 7</rdf:li>
+            </rdf:Seq>
+        </ct:tema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="SECCION 1">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>INTRODUCCION</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="SECCION 2">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>REPASO SOBRE BASES DE DATOS</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="SECCION 3">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>DESCRICION DE BASE R</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="SECCION 4">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>UN PERIFERIO INTELIGENTE PARA BASE R</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="SECCION 5">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>DETERMINACION DE LOS CICLOS PARA REALIZAR LAS OPERACIONES</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="SECCION 6">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>BENEFICIOS Y PROBLEMAS DEL PERIFERICO</rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="SECCION 7">
+        <ct:subtema>
+            <rdf:Seq>
+                <rdf:li>CONCLUSIONES</rdf:li>
+                <rdf:li>REFERENCIAS
+                </rdf:li>
+            </rdf:Seq>
+        </ct:subtema>
+    </rdf:Description>
+
+</rdf:RDF>
