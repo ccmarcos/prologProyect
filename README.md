@@ -1,0 +1,2 @@
+# prologProyect
+proyecto de prolog
